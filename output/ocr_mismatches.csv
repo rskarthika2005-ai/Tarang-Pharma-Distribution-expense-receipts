@@ -1,0 +1,41 @@
+claim_id,field,submitted_value,extracted_value,reason
+CLM-30435,amount,568.0,368.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30446,amount,3539.0,3039.2,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30446,vehicle_no,MH31 FR 1147,MH31RL1147,vehicle on bill is not the claimant's vehicle
+CLM-30479,amount,600.0,500.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30527,vendor,Travels Royal,Kalyani - Tarang,names differ
+CLM-30594,vendor,shere sai petroleum,SHREE SAT FERTILIZERS,names differ
+CLM-30665,date,2026-06-19,2026-06-15,bill date differs from expense date
+CLM-30689,date,2026-06-17,2026-06-13,bill date differs from expense date
+CLM-30736,amount,2400.0,2352.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30751,amount,432.0,4032.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30804,date,2026-06-08,2026-06-17,bill date differs from expense date
+CLM-30829,amount,888.0,388.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30840,date,2026-06-21,2026-06-14,bill date differs from expense date
+CLM-30854,amount,380.0,360.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30913,date,2026-07-01,2026-02-17,bill date differs from expense date
+CLM-30934,amount,1520.0,1020.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-30963,date,2026-06-14,2026-06-19,bill date differs from expense date
+CLM-30978,date,2026-06-21,2026-06-14,bill date differs from expense date
+CLM-30991,date,2026-06-24,2026-06-15,bill date differs from expense date
+CLM-31021,date,2026-07-12,2026-12-17,bill date differs from expense date
+CLM-31063,date,2026-06-08,2026-06-09,bill date differs from expense date
+CLM-31079,date,2026-06-30,2026-06-22,bill date differs from expense date
+CLM-31094,date,2026-07-10,2026-12-10,bill date differs from expense date
+CLM-31120,date,2026-06-17,2026-06-24,bill date differs from expense date
+CLM-31120,vehicle_no,MH31 DX 0981,MH31FA2290,vehicle on bill is not the claimant's vehicle
+CLM-31122,date,2026-06-15,2026-06-22,bill date differs from expense date
+CLM-31133,vehicle_no,MH32 BB 1205,MH12AB1205,vehicle on bill is not the claimant's vehicle
+CLM-31176,date,2026-07-02,2026-06-20,bill date differs from expense date
+CLM-31204,date,2026-06-28,2026-06-24,bill date differs from expense date
+CLM-31266,date,2026-06-20,2026-06-13,bill date differs from expense date
+CLM-31275,date,2026-07-25,2026-07-20,bill date differs from expense date
+CLM-31288,amount,2852.0,2352.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-31292,amount,450.0,250.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-31315,amount,20.0,200.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-31356,vehicle_no,MH31 FG 6627,MH31FG4427,vehicle on bill is not the claimant's vehicle
+CLM-31386,amount,750.0,250.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-31418,date,2026-06-08,2026-06-12,bill date differs from expense date
+CLM-31444,amount,520.0,250.0,claimed amount differs from bill (beyond Rs 10 rounding)
+CLM-31475,date,2026-07-02,2026-06-21,bill date differs from expense date
+CLM-31497,date,2026-08-07,2026-07-23,bill date differs from expense date
