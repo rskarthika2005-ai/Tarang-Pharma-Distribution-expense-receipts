@@ -1,0 +1,159 @@
+claim_id,field,compared_with,ocr_value,other_value,note
+CLM-30421,total_amount,clerk,250,240,
+CLM-30435,total_amount,rep,368,568,
+CLM-30436,receipt_number,clerk,A/6178,A/618,clerk dropped a character (tool value is longer)
+CLM-30437,gstin,clerk,27HJXCW9975D1ZJ,27HJXCW997531ZJ,"tool right, clerk typo (clerk value fails check digit)"
+CLM-30446,total_amount,rep,3039.2,3539,
+CLM-30462,receipt_number,clerk,A/6149,A/649,clerk dropped a character (tool value is longer)
+CLM-30465,gstin,clerk,27XMECH9812R2ZH,,clerk left it blank; tool value passes the check digit
+CLM-30469,total_amount,clerk,335,435,
+CLM-30479,total_amount,rep,500,600,
+CLM-30484,gstin,clerk,27ODUFJ1789K3ZU,27ODUFJ1Q89K3ZU,"tool right, clerk typo (clerk value fails check digit)"
+CLM-30488,receipt_number,clerk,8148,844,
+CLM-30514,gstin,clerk,27AABPX3765R2Z6,27TABPX3765R2Z6,tool misread (tool value fails check digit)
+CLM-30514,gstin_format,format,27AABPX3765R2Z6,,15 characters; fails the GSTIN check digit
+CLM-30519,receipt_date,clerk,2026-06-14,2026-06-13,
+CLM-30527,vendor,clerk,Kalyani - Tarang,Royal Travels,
+CLM-30527,vendor,rep,Kalyani - Tarang,Travels Royal,
+CLM-30531,vendor,rep,,vidarbha express courier,
+CLM-30531,receipt_date,rep,,2026-06-11,
+CLM-30531,total_amount,rep,,141.6,
+CLM-30543,receipt_date,clerk,2026-06-09,2026-09-06,
+CLM-30568,gstin,clerk,27AABCF1789K3ZU,27ODUFJ178913ZU,both fail the check digit
+CLM-30568,gstin_format,format,27AABCF1789K3ZU,,15 characters; fails the GSTIN check digit
+CLM-30577,receipt_date,clerk,2026-06-11,2026-06-12,
+CLM-30585,receipt_number,clerk,6866,686,clerk dropped a character (tool value is longer)
+CLM-30586,receipt_date,clerk,2026-06-19,2026-06-18,
+CLM-30594,vendor,clerk,SHREE SAT FERTILIZERS,Shree Sai Petroleum,
+CLM-30594,receipt_number,clerk,0065953,6595,clerk dropped a character (tool value is longer)
+CLM-30594,vendor,rep,SHREE SAT FERTILIZERS,shere sai petroleum,
+CLM-30600,receipt_date,clerk,2026-06-19,2026-06-18,
+CLM-30600,gstin,clerk,27MTSPF4455T1ZB,,clerk left it blank; tool value passes the check digit
+CLM-30646,receipt_number,clerk,HGE/26-27/7496,HE/26-27/7496,clerk dropped a character (tool value is longer)
+CLM-30661,receipt_number,clerk,A/1324,A/124,clerk dropped a character (tool value is longer)
+CLM-30664,gstin,clerk,27TABPX3765R2Z6,27TABPX376MR2Z6,"tool right, clerk typo (clerk value fails check digit)"
+CLM-30665,receipt_date,rep,2026-06-15,2026-06-19,
+CLM-30679,gstin,clerk,27OUUFX7743H2ZR,,clerk left it blank; tool value passes the check digit
+CLM-30681,receipt_number,clerk,HCP/26-27/4594,HCP/26-27/459,clerk dropped a character (tool value is longer)
+CLM-30689,receipt_date,rep,2026-06-13,2026-06-17,
+CLM-30690,gstin,clerk,27OIF019942ZV,27OILFO1994Z2ZV,tool misread (tool value fails check digit)
+CLM-30690,gstin_format,format,27OIF019942ZV,,13 characters; fails the GSTIN check digit
+CLM-30703,vendor,rep,SPEEDLINK COURIERS,SpeedLink Cour.s - Wardha,
+CLM-30710,vendor,rep,,Sitabuldi Multilevel Parking,
+CLM-30710,receipt_date,rep,,2026-06-22,
+CLM-30710,total_amount,rep,,30,
+CLM-30717,receipt_number,clerk,004023,402,clerk dropped a character (tool value is longer)
+CLM-30736,total_amount,rep,2352,2400,
+CLM-30742,gstin,clerk,27TABPX3765R2Z6,,clerk left it blank; tool value passes the check digit
+CLM-30745,receipt_date,clerk,2026-06-29,2026-06-28,
+CLM-30749,gstin,clerk,27ODUFJ1789K3ZU,,clerk left it blank; tool value passes the check digit
+CLM-30751,total_amount,rep,4032,432,
+CLM-30764,gstin,clerk,27AALFA0199A1ZV,27OILFO1994Z2ZV,tool misread (tool value fails check digit)
+CLM-30764,gstin_format,format,27AALFA0199A1ZV,,15 characters; fails the GSTIN check digit
+CLM-30769,gstin,clerk,2762ZF1I1093Q22K,27GIZFL1093Q2ZK,tool misread (tool value fails check digit)
+CLM-30769,gstin_format,format,2762ZF1I1093Q22K,,16 characters; fails the GSTIN check digit
+CLM-30774,gstin,clerk,27HPFCA5856Y3ZE,27H1FCA5856Y3ZE,"tool right, clerk typo (clerk value fails check digit)"
+CLM-30780,gstin,clerk,27XMECH9812R2ZH,,clerk left it blank; tool value passes the check digit
+CLM-30794,gstin,clerk,27AHXCA9937D1ZL,27HJXCW9975D1ZJ,tool misread (tool value fails check digit)
+CLM-30794,gstin_format,format,27AHXCA9937D1ZL,,15 characters; fails the GSTIN check digit
+CLM-30804,gstin,clerk,27GIZFL1093Q2ZK,27GIZRL1093Q2ZK,"tool right, clerk typo (clerk value fails check digit)"
+CLM-30804,receipt_date,rep,2026-06-17,2026-06-08,
+CLM-30807,receipt_number,clerk,5968,598,clerk dropped a character (tool value is longer)
+CLM-30811,receipt_number,clerk,A/1466,A/466,clerk dropped a character (tool value is longer)
+CLM-30814,total_amount,clerk,270,279,
+CLM-30820,total_amount,clerk,250,259,
+CLM-30824,gstin,clerk,27DPAFU4120X1ZM,27DPAFU412UX1ZM,"tool right, clerk typo (clerk value fails check digit)"
+CLM-30827,gstin,clerk,27MTSPF4455T1ZB,,clerk left it blank; tool value passes the check digit
+CLM-30829,gstin,clerk,27A1LF0199442ZV,27OILFO1994Z2ZV,tool misread (tool value fails check digit)
+CLM-30829,total_amount,rep,388,888,
+CLM-30829,gstin_format,format,27A1LF0199442ZV,,15 characters; fails the GSTIN check digit
+CLM-30840,receipt_date,rep,2026-06-14,2026-06-21,
+CLM-30846,gstin,clerk,27QILF019944ZZV,27OILFO1994Z2ZV,tool misread (tool value fails check digit)
+CLM-30846,gstin_format,format,27QILF019944ZZV,,15 characters; fails the GSTIN check digit
+CLM-30854,total_amount,rep,360,380,
+CLM-30856,vendor,rep,,Travels Royal,
+CLM-30856,receipt_date,rep,,2026-07-02,
+CLM-30856,total_amount,rep,,790,
+CLM-30868,receipt_number,clerk,8455,8435,
+CLM-30883,receipt_date,clerk,2026-07-02,2026-07-03,
+CLM-30883,gstin,clerk,27IRMF9429M2Z1,27IRWFN4293M2Z1,tool misread (tool value fails check digit)
+CLM-30883,gstin_format,format,27IRMF9429M2Z1,,14 characters; fails the GSTIN check digit
+CLM-30886,receipt_date,rep,,2026-07-02,
+CLM-30886,total_amount,rep,,212.4,
+CLM-30887,vendor,rep,,SPEEDLINK COURIERS,
+CLM-30887,receipt_date,rep,,2026-07-07,
+CLM-30887,total_amount,rep,,141.6,
+CLM-30910,receipt_number,clerk,3835,383,clerk dropped a character (tool value is longer)
+CLM-30913,receipt_date,clerk,2026-02-17,2026-07-01,
+CLM-30913,receipt_date,rep,2026-02-17,2026-07-01,
+CLM-30920,receipt_number,clerk,001638,638,clerk dropped a character (tool value is longer)
+CLM-30923,receipt_number,clerk,007612,7012,
+CLM-30925,receipt_number,clerk,006732,8732,
+CLM-30934,total_amount,rep,1020,1520,
+CLM-30937,gstin,clerk,27OUUFX7743H2ZR,,clerk left it blank; tool value passes the check digit
+CLM-30940,gstin,clerk,27GFZCR8659B2Z4,,clerk left it blank; tool value passes the check digit
+CLM-30944,vendor,clerk,Indianoil,shree sai petroleum,
+CLM-30944,receipt_number,clerk,068817,6817,clerk dropped a character (tool value is longer)
+CLM-30944,vendor,rep,Indianoil,Shree Sai Petroleum,
+CLM-30950,receipt_date,clerk,2026-07-05,2026-05-07,
+CLM-30963,receipt_date,rep,2026-06-19,2026-06-14,
+CLM-30978,receipt_date,rep,2026-06-14,2026-06-21,
+CLM-30979,vendor,rep,,Gajanan Petroleum - Wardha,
+CLM-30979,receipt_date,rep,,2026-07-04,
+CLM-30979,total_amount,rep,,300,
+CLM-30982,gstin,clerk,27O1LF0199A2ZZV,,clerk left it blank; tool value FAILS the check digit
+CLM-30982,gstin_format,format,27O1LF0199A2ZZV,,15 characters; fails the GSTIN check digit
+CLM-30983,gstin,clerk,27YUFFZ9311K2ZV,,clerk left it blank; tool value passes the check digit
+CLM-30991,receipt_date,rep,2026-06-15,2026-06-24,
+CLM-31010,receipt_number,clerk,2041,2841,
+CLM-31010,gstin,clerk,27ABCDE1234F1ZH,27XMECH9812R2ZH,tool misread (tool value fails check digit)
+CLM-31010,gstin_format,format,27ABCDE1234F1ZH,,15 characters; fails the GSTIN check digit
+CLM-31015,receipt_number,clerk,HSR/26-27/14886,HSR/26-27/4886,clerk dropped a character (tool value is longer)
+CLM-31018,gstin,clerk,27OILFO1994Z2ZV,,clerk left it blank; tool value passes the check digit
+CLM-31021,receipt_date,clerk,2026-12-17,2026-07-12,
+CLM-31021,receipt_date,rep,2026-12-17,2026-07-12,
+CLM-31032,receipt_number,clerk,A/15803,A/1503,clerk dropped a character (tool value is longer)
+CLM-31032,gstin,clerk,27G1ZF1L893Q2K,27GIZFL1093Q2ZK,tool misread (tool value fails check digit)
+CLM-31032,gstin_format,format,27G1ZF1L893Q2K,,14 characters; fails the GSTIN check digit
+CLM-31049,total_amount,clerk,190,200,
+CLM-31056,receipt_number,clerk,SL43722202,SL4372202,clerk dropped a character (tool value is longer)
+CLM-31056,gstin,clerk,27HJXCW9975D1ZJ,,clerk left it blank; tool value passes the check digit
+CLM-31057,vendor,clerk,SHREE SAI PETROLEUM,Shree Shirdi Sai Petro,
+CLM-31057,receipt_number,clerk,087343,7343,clerk dropped a character (tool value is longer)
+CLM-31063,receipt_date,rep,2026-06-09,2026-06-08,
+CLM-31079,receipt_date,rep,2026-06-22,2026-06-30,
+CLM-31094,receipt_date,rep,2026-12-10,2026-07-10,
+CLM-31120,receipt_date,rep,2026-06-24,2026-06-17,
+CLM-31122,receipt_date,rep,2026-06-22,2026-06-15,
+CLM-31140,gstin_format,format,27A1F0199442ZV,,14 characters; fails the GSTIN check digit
+CLM-31158,gstin_format,format,27QLEF0199A2ZV,,14 characters; fails the GSTIN check digit
+CLM-31176,receipt_date,rep,2026-06-20,2026-07-02,
+CLM-31190,vendor,rep,,om sai fuel point,
+CLM-31190,receipt_date,rep,,2026-07-24,
+CLM-31190,total_amount,rep,,400,
+CLM-31204,receipt_date,rep,2026-06-24,2026-06-28,
+CLM-31233,gstin_format,format,27AABCT0939Q2ZK,,15 characters; fails the GSTIN check digit
+CLM-31266,receipt_date,rep,2026-06-13,2026-06-20,
+CLM-31275,receipt_date,rep,2026-07-20,2026-07-25,
+CLM-31280,vendor,rep,,sai ramt ea & snacks,
+CLM-31280,receipt_date,rep,,2026-07-22,
+CLM-31280,total_amount,rep,,330,
+CLM-31288,total_amount,rep,2352,2852,
+CLM-31292,total_amount,rep,250,450,
+CLM-31299,gstin_format,format,27A1LF019942ZV,,14 characters; fails the GSTIN check digit
+CLM-31315,total_amount,rep,200,20,
+CLM-31333,receipt_date,rep,,2026-08-01,
+CLM-31333,total_amount,rep,,100,
+CLM-31361,vendor,rep,SHREE SAI PETROLEUM,Sri Shirdi Sai Petroleum (Ngp),
+CLM-31363,vendor,rep,,Hotel Shirdi Saibaba Bhojnalaya Nagpur,
+CLM-31363,receipt_date,rep,,2026-07-27,
+CLM-31363,total_amount,rep,,525,
+CLM-31386,total_amount,rep,250,750,
+CLM-31391,vendor,rep,,HOTEL SAIBABA BHOJNALAYA,
+CLM-31391,receipt_date,rep,,2026-07-26,
+CLM-31391,total_amount,rep,,420,
+CLM-31418,receipt_date,rep,2026-06-12,2026-06-08,
+CLM-31444,total_amount,rep,250,520,
+CLM-31475,receipt_date,rep,2026-06-21,2026-07-02,
+CLM-31478,gstin_format,format,27AAQPK3763N1Z6,,15 characters; fails the GSTIN check digit
+CLM-31497,receipt_date,rep,2026-07-23,2026-08-07,
