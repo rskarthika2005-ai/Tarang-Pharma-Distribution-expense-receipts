@@ -1,0 +1,191 @@
+claim_id,vendor,receipt_date,receipt_number,gstin,total_amount,decision,reason
+CLM-31086,NEW HIGHWAY SERVICE STATION,2026-07-18,002229,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH31EK4471 is the claimant's; passes policy checks
+CLM-31087,GREEN LEAF RESTAURANT,2026-07-16,A/6383,27YUFFZ9311K2ZV,304,approve,Bill read clearly; Rs 304 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31088,HIGHWAY KING DHABA,2026-07-11,1341,,260,approve,Bill read clearly; Rs 260 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31090,HOTEL RAJDHANI DHABA,2026-07-14,3509,,220,approve,Bill read clearly; Rs 220 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31091,SAI RAM TEA & SNACKS,2026-07-13,6928,,405,approve,Bill read clearly; Rs 405 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31094,MAA DURGA CAB SERVICE,2026-12-10,8305,,250,review,bill date 2026-12-10 differs from expense date
+CLM-31095,VIDARBHA EXPRESS COURIER,2026-07-15,VX81712845,27OUUFX7743H2ZR,330.4,approve,Bill read clearly; Rs 330.4 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31096,NEW HIGHWAY SERVICE STATION,2026-07-12,001846,,668.11,approve,Bill read clearly; Rs 668.11 matches claim; bill number not seen on any other claim; vehicle MH27DE7781 is the claimant's; passes policy checks
+CLM-31097,LAXMI AUTO FUELS,2026-07-12,004478,27DPAFU4120X1ZM,400,approve,Bill read clearly; Rs 400 matches claim; bill number not seen on any other claim; vehicle MH32AL6618 is the claimant's; passes policy checks
+CLM-31098,HOTEL PRADEEP PURE VEG,2026-07-12,1405,27ODUFJ1789K3ZU,730,approve,Bill read clearly; Rs 730 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31102,SHIVAM FAMILY RESTAURANT,2026-07-20,3006,27XMECH9812R2ZH,452,review,"same bill also claimed in CLM-31275 by TPD-0436; photo too blurry, dark or flat to trust the read; GSTIN corrected from this vendor's other bills"
+CLM-31105,ANNAPURNA DINING HALL,2026-07-16,A/1608,27GIZFL1093Q2ZK,567,approve,Bill read clearly; Rs 567 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31106,GREEN LEAF RESTAURANT,2026-07-19,A/6446,27YUFFZ9311K2ZV,494,approve,Bill read clearly; Rs 494 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31107,PROMPT PARCEL SERVICES,2026-07-12,PP77951745,27IRWFN4293M2Z1,330.4,approve,Bill read clearly; Rs 330.4 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31110,PROMPT PARCEL SERVICES,2026-07-12,PP52882767,27IRWFN4293M2Z1,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31111,SITABULDI MULTILEVEL PARKING,2026-07-16,115811,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31112,SITABULDI MULTILEVEL PARKING,2026-07-14,115488,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31115,JAI AMBE FUELS,2026-07-21,001486,,511.67,approve,Bill read clearly; Rs 511.67 matches claim; bill number not seen on any other claim; vehicle MH29AR4419 is the claimant's; passes policy checks
+CLM-31118,OM SAI FUEL POINT,2026-07-14,003418,,283.44,approve,Bill read clearly; Rs 283.44 matches claim; bill number not seen on any other claim; vehicle MH31EK4471 is the claimant's; passes policy checks
+CLM-31120,OM SAI FUEL POINT,2026-06-24,002691,,300,review,"same bill as CLM-30687 claimed by TPD-0418 - claimed once, by the payer; bill date 2026-06-24 differs from expense date; vehicle MH31FA2290 on bill is not the claimant's"
+CLM-31122,LAXMI AUTO FUELS,2026-06-22,003752,27DPAFU4120X1ZM,200,review,same bill as CLM-30762 - claimed twice by the same person; bill date 2026-06-22 differs from expense date
+CLM-31123,CAFE COFFEE CORNER,2026-07-14,A/1453,27TABPX3765R2Z6,252,approve,Bill read clearly; Rs 252 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31126,SHIVAM FAMILY RESTAURANT,2026-07-14,2971,27XMECH9812R2ZH,210,approve,Bill read clearly; Rs 210 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31130,HOTEL PRADEEP PURE VEG,2026-07-12,1379,27ODUFJ1789K3ZU,982,approve,Bill read clearly; Rs 982 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31132,OM SAI FUEL POINT,2026-07-20,003651,,150,approve,Bill read clearly; Rs 150 matches claim; bill number not seen on any other claim; vehicle MH27BX3364 is the claimant's; passes policy checks
+CLM-31133,SHREE SAI PETROLEUM,2026-07-17,007436,,300,review,vehicle MH12AB1205 on bill is not the claimant's
+CLM-31137,SPICE ROUTE KITCHEN,2026-07-15,6221,27NCRPN1784A3Z1,399,approve,Bill read clearly; Rs 399 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31140,ASHIRWAD VEG RESTAURANT,2026-07-21,6423,27A1F0199442ZV,294,review,GSTIN fails the format or check-digit test
+CLM-31142,HOTEL RAJDHANI DHABA,2026-07-15,3532,,350,approve,Bill read clearly; Rs 350 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31146,SHREE GANESH TOURS & TRAVELS,2026-07-17,3916,,470,approve,Bill read clearly; Rs 470 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31148,HOTEL SHUBHAM RESIDENCY,2026-07-15,HSR/26-27/4921,27UVQFW9408Y1ZS,2352,review,"Rs 2352 is Rs 2,000 or more, a clerk checks it"
+CLM-31152,MEDICAL SQUARE PAY & PARK,2026-07-13,105339,,20,approve,Bill read clearly; Rs 20 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31156,NEW HIGHWAY SERVICE STATION,2026-07-14,001991,,313.73,approve,Bill read clearly; Rs 313.73 matches claim; bill number not seen on any other claim; vehicle MH31FG6627 is the claimant's; passes policy checks
+CLM-31158,ASHIRWAD VEG RESTAURANT,2026-07-14,6318,27QLEF0199A2ZV,430,review,GSTIN fails the format or check-digit test
+CLM-31160,SPEEDLINK COURIERS,2026-07-15,SL13276215,27HJXCW9975D1ZJ,339.84,approve,Bill read clearly; Rs 339.84 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31161,HOTEL SHUBHAM RESIDENCY,2026-07-14,HSR/26-27/4915,27UVQFW9408Y1ZS,2352,review,"Rs 2352 is Rs 2,000 or more, a clerk checks it"
+CLM-31164,SHRES SAI PETROLEUM,2026-07-21,007635,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH31FA2290 is the claimant's; passes policy checks
+CLM-31168,GAJANAN PETROLEUM,2026-07-23,009209,,500,approve,Bill read clearly; Rs 500 matches claim; bill number not seen on any other claim; vehicle MH34BT9042 is the claimant's; passes policy checks
+CLM-31170,SPICE ROUTE KITCHEN,2026-07-15,6284,27NCRPN1784A3Z1,178,approve,Bill read clearly; Rs 178 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31171,HOTEL RAJDHANI DHABA,2026-07-18,3543,,190,approve,Bill read clearly; Rs 190 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31173,SAI RAM TEA & SNACKS,2026-07-19,6940,,330,approve,Bill read clearly; Rs 330 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31176,SAI RAM TEA & SNACKS,2026-06-20,6896,,190,review,same bill as CLM-30572 - claimed twice by the same person; bill date 2026-06-20 differs from expense date
+CLM-31178,SHREE GANESH TOURS & TRAVELS,2026-07-20,3928,,540,approve,Bill read clearly; Rs 540 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31182,ROYAL TRAVELS,2026-07-20,8485,,360,approve,"Bill read clearly; Rs 360 matches claim; bill number not seen on any other claim; passes policy checks; amount read with an extra 7 from '/-', corrected to match the claim"
+CLM-31185,PROMPT PARCEL SERVICES,2026-07-23,PP20468432,27IRWFN4293M2Z1,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31188,HOTEL KRISHNA COMFORTS,2026-07-15,HKC/26-27/5295,27HPFCA5856Y3ZE,4032,review,"Rs 4032 is Rs 2,000 or more, a clerk checks it"
+CLM-31190,,,,,,review,bill photo missing (upload failed) - ask rep to resend
+CLM-31191,SHREE SAI PETROLEUM,2026-07-20,007482,,308.69,approve,Bill read clearly; Rs 308.69 matches claim; bill number not seen on any other claim; vehicle MH31FA2290 is the claimant's; passes policy checks
+CLM-31192,SPICE ROUTE KITCHEN,2026-07-22,6423,27NCRPN1784A3Z1,1200,approve,Bill read clearly; Rs 1200 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31195,PROMPT PARCEL SERVICES,2026-07-16,PP67136855,27IRWFN4293M2Z1,330.4,approve,Bill read clearly; Rs 330.4 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31197,OM SAI FUEL POINT,2026-07-18,003508,,291.81,approve,Bill read clearly; Rs 291.81 matches claim; bill number not seen on any other claim; vehicle MH49BZ7713 is the claimant's; passes policy checks
+CLM-31201,ASHIRWAD VEG RESTAURANT,2026-07-19,6380,27OILFO1994Z2ZV,536,approve,Bill read clearly; Rs 536 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31203,HOTEL RAJDHANI DHABA,2026-07-22,3547,,1180,review,bill looks altered: The total amount appears to be altered.
+CLM-31204,SPEEDLINK COURIERS,2026-06-24,SL26816175,27HJXCW9975D1ZJ,330.4,review,same bill as CLM-30703 - claimed twice by the same person; bill date 2026-06-24 differs from expense date
+CLM-31206,NEW HIGHWAY SERVICE STATION,2026-07-22,002362,,100,approve,Bill read clearly; Rs 100 matches claim; bill number not seen on any other claim; vehicle MH27DE7781 is the claimant's; passes policy checks
+CLM-31207,ANNAPURNA DINING HALL,2026-07-27,A/1729,27GIZFL1093Q2ZK,2194,review,"Rs 2194 is Rs 2,000 or more, a clerk checks it"
+CLM-31209,HIGHWAY KING DHABA,2026-07-24,1394,,480,review,bill looks altered: The date appears to be overwritten.
+CLM-31211,HIGHWAY KING DHABA,2026-07-19,1359,,185,approve,Bill read clearly; Rs 185 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31214,SAI RAM TEA & SNACKS,2026-07-21,6946,,100,approve,Bill read clearly; Rs 100 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31217,SHREE GANESH TOURS & TRAVELS,2026-07-25,3998,,660,approve,Bill read clearly; Rs 660 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31221,PROMPT PARCEL SERVICES,2026-07-24,PP16214660,27IRWFN4293M2Z1,330.4,approve,Bill read clearly; Rs 330.4 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31222,SITABULDI MULTILEVEL PARKING,2026-07-23,116051,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31225,OM SAI FUEL POINT,2026-07-21,003760,,606.62,approve,Bill read clearly; Rs 606.62 matches claim; bill number not seen on any other claim; vehicle MH40CK3356 is the claimant's; passes policy checks
+CLM-31228,OM SAI FUEL POINT,2026-07-28,004302,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH31DX0981 is the claimant's; passes policy checks
+CLM-31230,OM SAI FUEL POINT,2026-07-27,004185,,150,approve,Bill read clearly; Rs 150 matches claim; bill number not seen on any other claim; vehicle MH49BZ7713 is the claimant's; passes policy checks
+CLM-31233,Annapurna Dining Hall,2026-07-20,14561,27AABCT0939Q2ZK,462,review,GSTIN fails the format or check-digit test
+CLM-31236,ANNAPURNA DINING HALL,2026-07-27,A/1689,27GIZFL1093Q2ZK,483,approve,Bill read clearly; Rs 483 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31240,CAFE COFFEE CORNER,2026-07-25,A/1508,27TABPX3765R2Z6,425,approve,Bill read clearly; Rs 425 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31243,SHREE GANESH TOURS & TRAVELS,2026-07-27,4043,,790,approve,Bill read clearly; Rs 790 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31244,SHREE GANESH TOURS & TRAVELS,2026-07-23,3974,,1100,review,bill looks altered: Amount appears overwritten.
+CLM-31247,VIDARBHA EXPRESS COURIER,2026-07-24,VX23263164,27OUUFX7743H2ZR,330.4,approve,Bill read clearly; Rs 330.4 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31249,VIDARBHA EXPRESS COURIER,2026-07-19,VX21608808,27OUUFX7743H2ZR,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31251,SPEEDLINK COURIERS,2026-07-28,SL59393970,27HJXCW9975D1ZJ,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31255,SITABULDI MULTILEVEL PARKING,2026-07-24,116964,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31256,SITABULDI MULTILEVEL PARKING,2026-07-24,116520,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31258,JAI AMBE FUELS,2026-07-23,001556,,500,approve,Bill read clearly; Rs 500 matches claim; bill number not seen on any other claim; vehicle MH29BS8806 is the claimant's; passes policy checks
+CLM-31261,SHREE SAI PETROLEUM,2026-07-29,007878,,606.91,approve,Bill read clearly; Rs 606.91 matches claim; bill number not seen on any other claim; vehicle MH49BZ7713 is the claimant's; passes policy checks
+CLM-31263,OM SAI FUEL POINT,2026-07-21,003689,,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH31EK4471 is the claimant's; passes policy checks
+CLM-31265,GAJANAN PETROLEUM,2026-07-22,009169,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH34CA5530 is the claimant's; passes policy checks
+CLM-31266,OM SAI FUEL POINT,2026-06-13,002123,,300,review,same bill as CLM-30451 - claimed twice by the same person; bill date 2026-06-13 differs from expense date
+CLM-31270,JAI AMBE FUELS,2026-07-26,001600,,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH29AR4419 is the claimant's; passes policy checks
+CLM-31272,SPICE ROUTE KITCHEN,2026-07-22,6333,27NCRPN1784A3Z1,331,approve,Bill read clearly; Rs 331 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31274,HOTEL PRADEEP PURE VEG,2026-07-27,1581,27ODUFJ1789K3ZU,693,approve,Bill read clearly; Rs 693 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31275,SHIVAM FAMILY RESTAURANT,2026-07-20,3006,27XMECH9812R2ZH,452,review,"same bill as CLM-31102 claimed by TPD-0423 - claimed once, by the payer; bill date 2026-07-20 differs from expense date; GSTIN corrected from this vendor's other bills"
+CLM-31279,SHIVAM FAMILY RESTAURANT,2026-07-26,3036,27XMECH9812R2ZH,357,approve,Bill read clearly; Rs 357 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31280,,,,,,review,bill photo missing (upload failed) - ask rep to resend
+CLM-31284,HOTEL KRISHNA COMFORTS,2026-07-23,HKC/26-27/5301,27HPFCA5856Y3ZE,2016,review,"Rs 2016 is Rs 2,000 or more, a clerk checks it"
+CLM-31288,HOTEL GULMOHAR EXECUTIVE,2026-07-28,HGE/26-27/7519,27PMLCE5129S3ZO,2352,review,"claimed Rs 2852 but bill shows Rs 2352; Rs 2352 is Rs 2,000 or more, a clerk checks it"
+CLM-31292,JAI AMBE FUELS,2026-07-29,001654,,250,review,claimed Rs 450 but bill shows Rs 250
+CLM-31294,OM SAI FUEL POINT,2026-07-22,003881,,542.82,approve,Bill read clearly; Rs 542.82 matches claim; bill number not seen on any other claim; vehicle MH49BZ7713 is the claimant's; passes policy checks
+CLM-31296,SHREE SAI PETROLEUM,2026-07-21,007682,,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH40CK3356 is the claimant's; passes policy checks
+CLM-31298,SPICE ROUTE KITCHEN,2026-07-24,6440,27NCRPN1784A3Z1,430,approve,Bill read clearly; Rs 430 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31299,ASHIRWAD VEG RESTAURANT,2026-07-23,6440,27A1LF019942ZV,1472,review,GSTIN fails the format or check-digit test
+CLM-31301,HOTEL PRADEEP PURE VEG,2026-07-24,1524,27ODUFJ1789K3ZU,735,approve,Bill read clearly; Rs 735 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31305,Royal Travels,2026-07-30,8506,,380,approve,"Bill read clearly; Rs 380 matches claim; bill number not seen on any other claim; passes policy checks; amount read with an extra 7 from '/-', corrected to match the claim"
+CLM-31308,ROYAL TRAVELS,2026-07-25,8501,,480,approve,"Bill read clearly; Rs 480 matches claim; bill number not seen on any other claim; passes policy checks; amount read with an extra 7 from '/-', corrected to match the claim"
+CLM-31310,SHREE GANESH TOURS & TRAVELS,2026-07-23,3950,,1170,review,same bill also claimed in CLM-31497 by TPD-0471
+CLM-31311,HOTEL GULMOHAR EXECUTIVE,2026-07-23,HGE/26-27/7514,27PMLCE5129S3ZO,2352,review,"Rs 2352 is Rs 2,000 or more, a clerk checks it"
+CLM-31314,SITABULDI MULTILEVEL PARKING,2026-07-29,118129,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31315,LAXMI AUTO FUELS,2026-07-31,004980,27DPAFU4120X1ZM,200,review,claimed Rs 20 but bill shows Rs 200
+CLM-31317,ASHIRWAD VEG RESTAURANT,2026-07-24,6481,27OILFO1994Z2ZV,2268,review,"Rs 2268 is Rs 2,000 or more, a clerk checks it; GSTIN corrected from this vendor's other bills"
+CLM-31321,HOTEL PRADEEP PURE VEG,2026-07-27,1630,27ODUFJ1789K3ZU,808,approve,Bill read clearly; Rs 808 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31324,HOTEL SAIBABA BHOJNALAYA,2026-07-29,6627,27MTSPF4455T1ZB,998,approve,Bill read clearly; Rs 998 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31328,HIGHWAY KING DHABA,2026-07-23,1377,,235,approve,Bill read clearly; Rs 235 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31329,SHREE GANESH TOURS & TRAVELS,2026-07-25,4011,,740,approve,Bill read clearly; Rs 740 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31331,MAA DURGA CAB SERVICE,2026-06-14,8219,,1230,review,"same bill as CLM-30506 - claimed twice by the same person; amount read with an extra 7 from '/-', corrected to match the claim"
+CLM-31333,OM SAI FUEL POINT,,004744,,,review,bill amount not readable; bill date not readable; low read confidence on amount (0.00) (+2 more)
+CLM-31335,OM SAI FUEL POINT,2026-08-01,004585,,1313.77,approve,Bill read clearly; Rs 1313.77 matches claim; bill number not seen on any other claim; vehicle MH31FA2290 is the claimant's; passes policy checks
+CLM-31336,OM SAI FUEL POINT,2026-07-26,004104,,2607.43,review,"Rs 2607.43 is Rs 2,000 or more, a clerk checks it"
+CLM-31339,LAXMI AUTO FUELS,2026-07-29,004802,27DPAFU4120X1ZM,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH32BB1205 is the claimant's; passes policy checks
+CLM-31340,GREEN LEAF RESTAURANT,2026-07-24,A/6499,27YUFFZ9311K2ZV,420,approve,Bill read clearly; Rs 420 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31341,ASHIRWAD VEG RESTAURANT,2026-07-26,6535,27OILFO1994Z2ZV,840,approve,Bill read clearly; Rs 840 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31344,HIGHWAY KING DHABA,2026-07-28,1399,,315,approve,Bill read clearly; Rs 315 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31347,HOTEL RAJDHANI DHABA,2026-08-01,3554,,270,approve,Bill read clearly; Rs 270 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31351,SHREE GANESH TOURS & TRAVELS,2026-07-29,4067,,930,approve,Bill read clearly; Rs 930 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31352,PROMPT PARCEL SERVICES,2026-07-23,PP31929414,27IRWFN4293M2Z1,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31356,SITABULDI MULTILEVEL PARKING,2026-07-30,118340,,30,review,"parking ticket is for vehicle MH31FG4427, not the claimant's"
+CLM-31359,MEDICAL SQUARE PAY & PARK,2026-08-01,105547,,20,review,bill looks altered: The amount appears to be overwritten.
+CLM-31361,SHREE SAI PETROLEUM,2026-07-24,007720,,250,approve,Bill read clearly; Rs 250 matches claim; bill number not seen on any other claim; vehicle MH31EK4471 is the claimant's; passes policy checks
+CLM-31362,LAXMI AUTO FUELS,2026-07-27,004694,27DPAFU4120X1ZM,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH32BB1205 is the claimant's; passes policy checks
+CLM-31363,,,,,,review,bill photo missing (upload failed) - ask rep to resend
+CLM-31366,HIGHWAY KING DHABRA,2026-06-09,1250,,270,review,same bill as CLM-30489 - claimed twice by the same person
+CLM-31367,VIDARBHA EXPRESS COURIER,2026-07-30,VX79894828,27OUUFX7743H2ZR,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31368,SAI PALACE LODGE,2026-08-01,SPL/26-27/2364,27GFZCR8659B2Z4,3136,review,"Rs 3136 is Rs 2,000 or more, a clerk checks it"
+CLM-31369,OM SAI FUEL POINT,2026-08-03,004810,,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH31FG6627 is the claimant's; passes policy checks
+CLM-31373,OM SAI FUEL POINT,2026-07-29,004426,,150,approve,Bill read clearly; Rs 150 matches claim; bill number not seen on any other claim; vehicle MH40CK3356 is the claimant's; passes policy checks
+CLM-31374,HOTEL SAIBABA BHOJNALAYA,2026-08-03,6663,27MTSPF4455T1ZB,1092,approve,Bill read clearly; Rs 1092 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31378,SAI RAM TEA & SNACKS,2026-07-25,6972,,60,approve,Bill read clearly; Rs 60 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31382,SPEEDLINK COURIERS,2026-07-29,SL67387447,27HJXCW9975D1ZJ,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31386,JAI AMBE FUELS,2026-08-03,001723,,250,review,claimed Rs 750 but bill shows Rs 250
+CLM-31387,GAJANAN PETROLEUM,2026-07-28,009346,,150,approve,Bill read clearly; Rs 150 matches claim; bill number not seen on any other claim; vehicle MH34CA5530 is the claimant's; passes policy checks
+CLM-31388,NEW HIGHWAY SERVICE STATION,2026-07-27,002436,,500,approve,Bill read clearly; Rs 500 matches claim; bill number not seen on any other claim; vehicle MH27DE7781 is the claimant's; passes policy checks
+CLM-31391,,,,,,review,bill is not readable in the photo
+CLM-31392,SPICE ROUTE KITCHEN,2026-07-31,6520,27NCRPN1784A3Z1,1124,approve,Bill read clearly; Rs 1124 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31393,CAFE COFFEE CORNER,2026-07-31,A/1574,27TABPX3765R2Z6,546,approve,Bill read clearly; Rs 546 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31397,PUNJABI TADKA DHABA,2026-07-26,8332,,270,approve,Bill read clearly; Rs 270 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31401,SHREE GANESH TOURS & TRAVELS,2026-07-26,4032,,1390,review,bill carries text addressed to an automated reviewer; a person must check it
+CLM-31402,SPEEDLINK COURIERS,2026-06-23,SL36715972,27HJXCW9975D1ZJ,330.4,review,same bill as CLM-30625 - claimed twice by the same person
+CLM-31405,HOTEL SHUBHAM RESIDENCY,2026-08-03,HSR/26-27/4944,27UVQFW9408Y1ZS,4704,review,"Rs 4704 is Rs 2,000 or more, a clerk checks it"
+CLM-31407,SITABULDI MULTILEVEL PARKING,2026-07-31,118663,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31411,MEDICAL SQUARE PAY & PARK,2026-08-02,106049,,20,approve,Bill read clearly; Rs 20 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31412,NEW HIGHWAY SERVICE STATION,2026-07-27,002589,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH27BX3364 is the claimant's; passes policy checks
+CLM-31414,GAJANAN PETROLEUM,2026-07-28,009395,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH34BT9042 is the claimant's; passes policy checks
+CLM-31415,LAXMI AUTO FUELS,2026-07-30,004852,27DPAFU4120X1ZM,500,approve,Bill read clearly; Rs 500 matches claim; bill number not seen on any other claim; vehicle MH32AY2051 is the claimant's; passes policy checks
+CLM-31417,ASHIRWAD VEG RESTAURANT,2026-08-04,6581,27OILFO1994Z2ZV,567,approve,Bill read clearly; Rs 567 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31418,ANNAPURNA DINING HALL,2026-06-12,A/1202,27GIZFL1093Q2ZK,536,review,same bill as CLM-30428 - claimed twice by the same person; bill date 2026-06-12 differs from expense date; GSTIN corrected from this vendor's other bills
+CLM-31421,SAI RAM TEA & SNACKS,2026-07-28,6997,,385,approve,Bill read clearly; Rs 385 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31422,HOTEL KRISHNA COMFORTS,2026-07-30,HKC/26-27/5329,27HPFCA5856Y3ZE,4032,review,"Rs 4032 is Rs 2,000 or more, a clerk checks it"
+CLM-31423,SITABULDI MULTILEVEL PARKING,2026-07-28,117592,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31424,SITABULDI MULTILEVEL PARKING,2026-08-05,119915,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31428,SITABULDI MULTILEVEL PARKING,2026-08-03,119554,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31429,SHREE SAI PETROLEUM,2026-08-04,008014,,100,approve,Bill read clearly; Rs 100 matches claim; bill number not seen on any other claim; vehicle MH31FA2290 is the claimant's; passes policy checks
+CLM-31430,HOTEL PRADEEP PURE VEG,2026-07-29,1696,27ODUFJ1789K3ZU,220,approve,Bill read clearly; Rs 220 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31432,CAFE COFFEE CORNER,2026-08-04,A/1681,27TABPX3765R2Z6,588,approve,Bill read clearly; Rs 588 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31433,ANNAPURNA DINING HALL,2026-07-28,A/1796,27GIZFL1093Q2ZK,273,approve,Bill read clearly; Rs 273 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31436,SHIVAM FAMILY RESTAURANT,2026-07-31,3124,27XMECH9812R2ZH,756,approve,Bill read clearly; Rs 756 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31438,ANNAPURNA DINING HALL,2026-07-28,A/1882,27GIZFL1093Q2ZK,651,approve,Bill read clearly; Rs 651 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31439,SAI RAM TEA & SNACKS,2026-08-05,7012,,240,approve,Bill read clearly; Rs 240 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31440,HIGHWAY KING DHABA,2026-08-02,1414,,245,approve,Bill read clearly; Rs 245 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31444,SHREE SAI PETROLEUM,2026-07-30,007965,,250,review,claimed Rs 520 but bill shows Rs 250
+CLM-31447,OM SAI FUEL POINT,2026-07-30,004471,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH49BZ7713 is the claimant's; passes policy checks
+CLM-31451,JAI AMBE FUELS,2026-08-04,001882,,200,approve,Bill read clearly; Rs 200 matches claim; bill number not seen on any other claim; vehicle MH29BS8806 is the claimant's; passes policy checks
+CLM-31453,GAJANAN PETROLEUM,2026-08-02,009440,,250,approve,Bill read clearly; Rs 250 matches claim; bill number not seen on any other claim; vehicle MH34CA5530 is the claimant's; passes policy checks
+CLM-31454,NEW HIGHWAY SERVICE STATION,2026-08-05,002766,,400,approve,Bill read clearly; Rs 400 matches claim; bill number not seen on any other claim; vehicle MH27BX3364 is the claimant's; passes policy checks
+CLM-31457,OM SAI FUEL POINT,2026-08-05,004864,,400,approve,Bill read clearly; Rs 400 matches claim; bill number not seen on any other claim; vehicle MH31FA2290 is the claimant's; passes policy checks
+CLM-31460,LAXMI AUTO FUELS,2026-08-05,005049,27DPAFU4120X1ZM,500,approve,Bill read clearly; Rs 500 matches claim; bill number not seen on any other claim; vehicle MH32AY2051 is the claimant's; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31461,NEW HIGHWAY SERVICE STATION,2026-07-31,002706,,300,approve,Bill read clearly; Rs 300 matches claim; bill number not seen on any other claim; vehicle MH31EK4471 is the claimant's; passes policy checks
+CLM-31465,GAJANAN PETROLEUM,2026-08-04,009478,,400,approve,Bill read clearly; Rs 400 matches claim; bill number not seen on any other claim; vehicle MH34CA5530 is the claimant's; passes policy checks
+CLM-31469,SHREE SAI PETROLEUM,2026-08-04,007993,,100,approve,Bill read clearly; Rs 100 matches claim; bill number not seen on any other claim; vehicle MH40CK3356 is the claimant's; passes policy checks
+CLM-31473,SPICE ROUTE KITCHEN,2026-08-03,6567,27NCRPN1784A3Z1,756,approve,Bill read clearly; Rs 756 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31474,CAFE COFFEE CORNER,2026-08-05,A/1751,27TABPX3765R2Z6,746,approve,Bill read clearly; Rs 746 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31475,CAFE COFFEE CORNER,2026-06-21,A/1406,27TABPX3765R2Z6,987,review,same bill as CLM-30664 - claimed twice by the same person; bill date 2026-06-21 differs from expense date; GSTIN corrected from this vendor's other bills
+CLM-31478,CAFE COFFEE CORNER,2026-08-05,A/1774,27AAQPK3763N1Z6,1082,review,GSTIN fails the format or check-digit test
+CLM-31479,CAFE COFFEE CORNER,2026-08-03,A/1594,27TABPX3765R2Z6,567,approve,Bill read clearly; Rs 567 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31480,HOTEL PRADEEP PURE VEG,2026-07-24,1524,27ODUFJ1789K3ZU,735,review,same bill as CLM-31301 - claimed twice by the same person; GSTIN corrected from this vendor's other bills
+CLM-31483,ANNAPURNA DINING HALL,2026-08-03,A/1958,27GIZFL1093Q2ZK,798,approve,Bill read clearly; Rs 798 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31485,PUNJABI TADKA DHABA,2026-08-04,8379,,410,approve,Bill read clearly; Rs 410 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31486,PUNJABI TADKA DHABA,2026-08-03,8354,,500,approve,Bill read clearly; Rs 500 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31490,HOTEL RAJDHANI DHABA,2026-07-30,3551,,370,approve,Bill read clearly; Rs 370 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31494,HIGHWAY KING DHABA,2026-08-05,1433,,165,approve,Bill read clearly; Rs 165 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31495,MAA DURGA CAB SERVICE,2026-08-03,8323,,910,approve,Bill read clearly; Rs 910 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31497,SHREE GANESH TOURS & TRAVELS,2026-07-23,3950,,1170,review,"same bill as CLM-31310 claimed by TPD-0478 - claimed once, by the payer; bill date 2026-07-23 differs from expense date"
+CLM-31501,VIDARBHA EXPRESS COURIER,2026-08-01,VX53559174,27OUUFX7743H2ZR,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31503,VIDARBHA EXPRESS COURIER,2026-08-04,VX62429997,27OUUFX7743H2ZR,1226.56,approve,Bill read clearly; Rs 1226.56 matches claim; bill number not seen on any other claim; passes policy checks
+CLM-31506,SPEEDLINK COURIERS,2026-08-02,SL73161147,27HJXCW9975D1ZJ,141.6,approve,Bill read clearly; Rs 141.6 matches claim; bill number not seen on any other claim; passes policy checks; GSTIN corrected from this vendor's other bills
+CLM-31509,SAI PALACE LODGE,2026-08-01,SPL/26-27/2384,27GFZCR8659B2Z4,3136,review,"Rs 3136 is Rs 2,000 or more, a clerk checks it"
+CLM-31512,HOTEL KRISHNA COMFORTS,2026-08-05,HKC/26-27/5346,27HPFCA5856Y3ZE,2016,review,"Rs 2016 is Rs 2,000 or more, a clerk checks it"
+CLM-31516,SITABULDI MULTILEVEL PARKING,2026-08-01,119019,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31519,SITABULDI MULTILEVEL PARKING,2026-08-05,121071,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
+CLM-31523,SITABULDI MULTILEVEL PARKING,2026-08-05,120477,,30,approve,Bill read clearly; Rs 30 matches claim; bill number not seen on any other claim; ticket vehicle is the claimant's; passes policy checks
