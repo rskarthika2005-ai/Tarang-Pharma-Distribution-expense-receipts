@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+python-dateutil>=2.8
+pillow>=10.0
+opencv-python-headless>=4.9
+openai>=1.40
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+streamlit>=1.35
