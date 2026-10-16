@@ -1,0 +1,17 @@
+emp_id,name,designation,headquarter,manager_id,vehicle_no,grade
+TPD-0412,Rohan Wankhede,Medical Representative,Nagpur,TPD-0388,MH31 EK 4471,M1
+TPD-0418,Sneha Bhoyar,Medical Representative,Nagpur,TPD-0388,MH31 FA 2290,M1
+TPD-0423,Akash Thakre,Medical Representative,Nagpur,TPD-0388,MH49 BZ 7713,M1
+TPD-0431,Pooja Meshram,Senior Medical Representative,Nagpur,TPD-0388,MH31 DX 0981,M2
+TPD-0436,Nikhil Raut,Medical Representative,Nagpur,TPD-0388,MH40 CK 3356,M1
+TPD-0447,Shubham Gawande,Medical Representative,Wardha,TPD-0388,MH32 AL 6618,M1
+TPD-0452,Kalyani Deshmukh,Senior Medical Representative,Wardha,TPD-0388,MH32 BB 1205,M2
+TPD-0459,Vaibhav Chaudhari,Medical Representative,Chandrapur,TPD-0388,MH34 BT 9042,M1
+TPD-0463,Ashwini Kolte,Medical Representative,Chandrapur,TPD-0388,MH34 CA 5530,M1
+TPD-0471,Sagar Ingole,Medical Representative,Amravati,TPD-0388,MH27 DE 7781,M1
+TPD-0478,Prachi Wasnik,Senior Medical Representative,Amravati,TPD-0388,MH27 BX 3364,M2
+TPD-0484,Tushar Barde,Medical Representative,Yavatmal,TPD-0388,MH29 AR 4419,M1
+TPD-0490,Mayur Dhoble,Medical Representative,Yavatmal,TPD-0388,MH29 BS 8806,M1
+TPD-0497,Harshal Pande,Medical Representative,Nagpur,TPD-0388,MH31 FG 6627,M1
+TPD-0503,Komal Shende,Medical Representative,Wardha,TPD-0388,MH32 AY 2051,M1
+TPD-0388,Amol Kathane,Area Sales Manager,Nagpur,,MH31 FR 1147,M3
