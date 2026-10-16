@@ -29,7 +29,8 @@ MINUTES_PER_CLAIM = 3.5
 
 
 def safe(section):
-   
+    """Wrap a dashboard section so one failure shows a message instead of breaking the whole page."""
+
     @functools.wraps(section)
     def wrapper(*args, **kwargs):
         try:
@@ -41,13 +42,12 @@ def safe(section):
     return wrapper
 
 
-
 GSTIN_PATTERN = re.compile(r"^\d{2}[A-Z]{5}\d{4}[A-Z][1-9A-Z]Z[0-9A-Z]$")
 _GSTIN_CHARS = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 
 def gstin_checksum_ok(value):
-   
+    """True when the 15-character GSTIN passes the official check-digit test."""
     text = str(value).strip().upper()
     if len(text) != 15 or any(c not in _GSTIN_CHARS for c in text):
         return False
@@ -56,12 +56,14 @@ def gstin_checksum_ok(value):
         product = _GSTIN_CHARS.index(char) * (1 if i % 2 == 0 else 2)
         total += product // 36 + product % 36
     return _GSTIN_CHARS[(36 - total % 36) % 36] == text[14]
-AMOUNT_TOLERANCE = 10   
+
+
+AMOUNT_TOLERANCE = 10
 CLERK_COMPARE_REPORT = config.OUTPUT_DIR / "ocr_vs_clerk_differences.csv"
 
 
 def clean_amount(value):
-    found = re.search(r"\d+(?:\.\d+)?", str(value).replace(",", ""))  
+    found = re.search(r"\d+(?:\.\d+)?", str(value).replace(",", ""))
     return float(found.group()) if found else None
 
 
@@ -82,7 +84,7 @@ def clean_number(value):
     if _blank(value):
         return ""
     text = re.sub(r"\s", "", str(value)).upper()
-    return text.lstrip("0") if text.isdigit() else text   
+    return text.lstrip("0") if text.isdigit() else text
 
 
 def clean_text(value):
@@ -95,11 +97,11 @@ def same_vendor(left, right):
     a, b = clean_text(left), clean_text(right)
     if not a or not b:
         return a == b
-    if a in b or b in a:               
+    if a in b or b in a:
         return True
     if SequenceMatcher(None, a, b).ratio() >= 0.8:
         return True
-   
+
     words = lambda v: "".join(sorted(re.findall(r"[a-z0-9]+", str(v).lower())))
     return SequenceMatcher(None, words(left), words(right)).ratio() >= 0.8
 
@@ -114,7 +116,6 @@ def clean_gstin(value):
 
 
 def _as_text(value):
-   
     if value is None or (not isinstance(value, str) and pd.isna(value)):
         return ""
     if isinstance(value, float):
@@ -122,10 +123,7 @@ def _as_text(value):
     return str(value)
 
 
-
-
 def find_mismatches(ocr, claims):
-    
     table = ocr.merge(claims, on="claim_id", how="left", suffixes=("", "_claim"))
     found = []
 
@@ -138,7 +136,6 @@ def find_mismatches(ocr, claims):
         read_number, read_amount = clean_number(row["receipt_number"]), clean_amount(row["total_amount"])
         read_gstin = clean_gstin(row["gstin"])
 
-       
         if row.get("split") == "train" and pd.notna(row.get("clerk_vendor")):
             if not same_vendor(read_vendor, row["clerk_vendor"]):
                 add(row, "vendor", "clerk", read_vendor, row["clerk_vendor"])
@@ -169,7 +166,6 @@ def find_mismatches(ocr, claims):
                     note = "both pass: check the photo"
                 add(row, "gstin", "clerk", read_gstin, clerk_gstin, note)
 
-       
         if not same_vendor(read_vendor, row.get("vendor_claim", "")):
             add(row, "vendor", "rep", read_vendor, row.get("vendor_claim", ""))
         if read_date != clean_date(row.get("expense_date", "")):
@@ -178,12 +174,11 @@ def find_mismatches(ocr, claims):
         if read_amount is None or claimed is None or abs(read_amount - claimed) > AMOUNT_TOLERANCE:
             add(row, "total_amount", "rep", read_amount, claimed)
 
-      
         if read_gstin and not gstin_checksum_ok(read_gstin):
             add(row, "gstin_format", "format", read_gstin, "", f"{len(read_gstin)} characters; fails the GSTIN check digit")
 
     result = pd.DataFrame(found, columns=["claim_id", "field", "compared_with", "ocr_value", "other_value", "note"])
-    
+
     for column in ["ocr_value", "other_value"]:
         result[column] = result[column].map(_as_text)
     return result
@@ -197,7 +192,6 @@ CLERK_FAULT_NOTES = ("clerk dropped a character", "tool right, clerk typo", "cle
 
 
 def accuracy_table(mismatches, clerk_ids):
-    
     total = len(clerk_ids)
     if total == 0 or "compared_with" not in mismatches.columns:
         return None
@@ -237,9 +231,8 @@ def accuracy_by_category(differences, train_with_clerk):
 
 
 def risky_approvals(table):
-    
     ok = table[table["decision"] == "approve"].copy()
-    if ok.empty:                      
+    if ok.empty:
         return ok.assign(why="")[["claim_id", "category", "amount_claimed", "total_amount", "min_conf", "why"]]
     blank = ok[MAIN_FIELDS].fillna("").astype(str).apply(lambda col: col.str.strip() == "").any(axis=1)
     amount_column = "bill_amount" if "bill_amount" in ok.columns else "total_amount"
@@ -275,7 +268,6 @@ def run_mismatch_analysis(ocr_path=None, train_path=None, test_path=None, out_pa
     result = find_mismatches(ocr, claims)
     result.to_csv(out_path, index=False)
     return result
-
 
 
 def read_text(path):
@@ -319,7 +311,6 @@ def _repaired_gstins(files_key):
         return dict(zip(table["claim_id"], table["bill_gstin"].fillna("").astype(str)))
     except Exception:
         return {}
-
 
 
 def run_analysis():
@@ -488,7 +479,7 @@ def show_image_quality(quality_all, shown):
     st.write("Photos that need manual review")
     if "review_required" in quality.columns:
         needs_review = quality[quality["review_required"].fillna("").astype(str).str.lower() == "true"]
-    else:  
+    else:
         needs_review = quality[(quality["image_status"] != "ok") | (quality["blur_status"] == "blurry")]
     if needs_review.empty:
         st.caption("None in the shown claims.")
@@ -580,7 +571,7 @@ def _compare_key():
 
 @st.cache_data(show_spinner=False)
 def _clerk_differences(key):
-    return run_mismatch_analysis()   
+    return run_mismatch_analysis()
 
 
 @safe
@@ -638,7 +629,7 @@ def show_check_sample():
         st.info("No test claims with a readable photo.")
         return
     n = st.slider("Test claims to check by hand", 10, 100, 40, 5, key="sample_n")
-    sample = pool.sample(min(n, len(pool)), random_state=7).sort_values("claim_id")   
+    sample = pool.sample(min(n, len(pool)), random_state=7).sort_values("claim_id")
     sheet = _existing(sample, ["claim_id", "category", "resolved_image_path", "vendor", "receipt_date",
                                "receipt_number", "gstin", "total_amount", "decision"]).copy()
     sheet["gstin_check_digit"] = sample["gstin"].fillna("").astype(str).map(
@@ -679,6 +670,14 @@ def _text(row, column):
     return "" if pd.isna(value) else str(value)
 
 
+def _draw_photo(container, image):
+    """Show the photo; older Streamlit versions use use_column_width instead of use_container_width."""
+    try:
+        container.image(image, use_container_width=True)
+    except TypeError:
+        container.image(image, use_column_width=True)
+
+
 @safe
 def show_receipt_preview(shown, key="preview"):
     st.subheader("Receipt preview")
@@ -686,12 +685,12 @@ def show_receipt_preview(shown, key="preview"):
         return
     options = shown["claim_id"].tolist()
     claim_filter = st.session_state.get("f_claim", "").strip()
-    if st.session_state.get(key + "_filter") != claim_filter:   
+    if st.session_state.get(key + "_filter") != claim_filter:
         st.session_state[key + "_filter"] = claim_filter
         matches = [c for c in options if claim_filter and claim_filter.lower() in c.lower()]
         if matches:
             st.session_state[key + "_claim"] = matches[0]
-    if st.session_state.get(key + "_claim") not in options:   
+    if st.session_state.get(key + "_claim") not in options:
         st.session_state.pop(key + "_claim", None)
     claim_id = st.selectbox("Pick a claim", options, key=key + "_claim")
     rotate = st.radio("Rotate photo (view only, the file is not changed)", [0, 90, 180, 270],
@@ -701,14 +700,17 @@ def show_receipt_preview(shown, key="preview"):
     path = _text(row, "resolved_image_path")
     if path and os.path.exists(path):
         try:
-            image = ImageOps.exif_transpose(Image.open(path)).convert("RGB")  
-            image.thumbnail((1400, 1400))                                        
+            image = ImageOps.exif_transpose(Image.open(path)).convert("RGB")
+            image.thumbnail((1400, 1400))
             if rotate:
-                image = image.rotate(-rotate, expand=True)  
+                image = image.rotate(-rotate, expand=True)
         except Exception:
             left.warning("The photo could not be opened (damaged file or a format that is not supported).")
+        else:
+            _draw_photo(left, image)
     else:
         left.warning("No photo for this claim (the upload may have failed).")
+
     right.write(f"Decision: {_text(row, 'decision')}")
     quality_bits = [f"{label} {_text(row, col)}" for label, col in
                     [("image", "image_status"), ("blur", "blur_status"), ("blur score", "blur_score"),
@@ -722,10 +724,9 @@ def show_receipt_preview(shown, key="preview"):
     right.write(f"Bill date: {_text(row, 'receipt_date')}")
     right.write(f"Bill number: {_text(row, 'receipt_number')}")
 
-
-    gstin = _text(row, "gstin").strip().upper()            
-    used_gstin = _text(row, "bill_gstin").strip().upper()  
-    if not used_gstin:                                    
+    gstin = _text(row, "gstin").strip().upper()
+    used_gstin = _text(row, "bill_gstin").strip().upper()
+    if not used_gstin:
         used_gstin = _repaired_gstins(_files_key()).get(claim_id, "").strip().upper()
     if used_gstin and used_gstin != gstin:
         right.write(f"GSTIN (raw OCR read): {gstin or '(none)'}")
