@@ -1,0 +1,51 @@
+EMAIL THREAD - Tarang Pharma Distribution - Receipt reading
+Messages exchanged before this pack was sent. Provided as-is.
+========================================================================
+
+From: Nilesh Agrawal, Finance Controller, Tarang Pharma Distribution
+To: Kabir Nanda, Account Lead (our side)
+Cc: Priya Bhende; Sameer Joshi; Amol Kathane
+Subject: Receipt reading tool
+
+Kabir - as discussed. Sameer is sending two months of Nagpur division claims with the photos. What I need: the tool reads the bill photo and fills the fields so my clerks stop typing, 95% accurate or better. Anything under Rs 2,000 gets approved off the photo, clerks look at the big ones only. And I want a number for what it saves.
+
+------------------------------------------------------------------------
+
+From: Sameer Joshi, IT & Systems, Tarang Pharma Distribution
+To: Kabir Nanda, Account Lead (our side)
+Cc: Nilesh Agrawal; Priya Bhende
+Subject: Export
+
+Attached. claims_train is what Finance has already processed: the clerk_ columns are what the clerk typed off the photo, and status / clerk_note are their decision. claims_test is the latest batch, not processed yet.
+Notes: image_file is whatever the app recorded at upload. The older app version saved the full path from the phone, and some phones save .jpeg instead of .jpg. A few uploads failed and the photo never reached the server. Expense date and amount are typed free-hand by the reps, so the formats are all over the place. The app also doesn't fix sideways photos. I haven't cleaned anything.
+
+------------------------------------------------------------------------
+
+From: Priya Bhende, Accounts Executive, Tarang Pharma Distribution
+To: Nilesh Agrawal, Finance Controller, Tarang Pharma Distribution
+Cc: Kabir Nanda; Sameer Joshi; Amol Kathane
+Subject: Re: Receipt reading tool
+
+Honestly most of my day is typing. For the small bills I check the amount matches and approve, there are too many to do more. I did see the same Hotel Shubham bill twice last month but the amounts on the two claims were slightly different, so I let it go.
+Rohan, Pooja and Harshal put in a parking slip almost every day - same parking, same Rs 30 - I've stopped opening those.
+A lot of bills have pen on them, reps write the doctor's name or "paid". I never know if I should care.
+
+------------------------------------------------------------------------
+
+From: Amol Kathane, Area Sales Manager - Nagpur, Tarang Pharma Distribution
+To: Nilesh Agrawal, Finance Controller, Tarang Pharma Distribution
+Cc: Kabir Nanda; Priya Bhende; Sameer Joshi
+Subject: Re: Receipt reading tool
+
+My team is spending their own money on the company. Whatever we build, please don't make them wait longer to get paid. If anything it should be faster.
+
+------------------------------------------------------------------------
+
+From: Nilesh Agrawal, Finance Controller, Tarang Pharma Distribution
+To: Kabir Nanda, Account Lead (our side)
+Cc: Priya Bhende; Sameer Joshi; Amol Kathane
+Subject: Re: Receipt reading tool
+
+Noted, all. Kabir - 95% on the fields and auto-approve under Rs 2,000, that's the brief. Also tell me what it costs to run. I'm not paying more per photo than a clerk costs me.
+
+------------------------------------------------------------------------
