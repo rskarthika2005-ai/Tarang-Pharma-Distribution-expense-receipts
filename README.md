@@ -21,11 +21,11 @@ Reads a bill photo, fills in the five required fields, and decides whether the c
 
 <br/>
 
-<a href="PASTE-STREAMLIT-LINK-HERE">
+<a href="https://tarang-pharma-distribution-expense-receipts-yyxg7wgmnyfou4or8p.streamlit.app/">
 <img src="https://img.shields.io/badge/Live%20Dashboard-Open-0D9488?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open Live Dashboard"/>
 </a>
 
-<a href="PASTE-GITHUB-REPO-LINK-HERE">
+<a href="https://github.com/rskarthika2005-ai/Tarang-Pharma-Distribution-expense-receipts">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
