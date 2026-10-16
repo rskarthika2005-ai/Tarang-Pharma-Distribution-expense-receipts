@@ -119,7 +119,7 @@ def _as_text(value):
     if value is None or (not isinstance(value, str) and pd.isna(value)):
         return ""
     if isinstance(value, float):
-        return str(int(value)) if value.is_integer() else str(value)   # 430.0 -> 430
+        return str(int(value)) if value.is_integer() else str(value)  
     return str(value)
 
 
