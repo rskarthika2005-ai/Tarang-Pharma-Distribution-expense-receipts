@@ -1,0 +1,85 @@
+DATASET ANALYSIS REPORT
+============================================================
+--- claims_train.csv ---
+Rows: 283
+Duplicate claim_id: 0
+Category counts: {'Food': 103, 'Fuel': 77, 'Local travel': 34, 'Courier': 30, 'Parking': 21, 'Lodging': 18}
+Amounts that cannot be parsed: 0
+Amount stats (Rs): min 20, median 340, max 6272
+Claims under Rs 2,000: 258 (91%)
+Expense dates that cannot be parsed: 0
+image_file with full phone path: 16
+image_file ending .jpeg: 6
+image_file in WhatsApp style (IMG-...-WA...): 85
+Missing values: {'clerk_vendor': 6, 'clerk_bill_date': 6, 'clerk_bill_no': 6, 'clerk_bill_amount': 6, 'clerk_gstin': 171, 'clerk_note': 240}
+Clerk decisions: {'approved': 275, 'queried': 6, 'rejected': 2}
+Clerk notes (top): {'GST invoice ok': 16, 'verified': 6, 'ok': 4, 'GST bill attached': 4, 'bill not attached': 3, 'photo not clear - asked to reupload': 3, 'amt corrected to 3039.2 as per bill': 1, 'amt corrected to 500 as per bill': 1}
+
+--- claims_test.csv ---
+Rows: 190
+Duplicate claim_id: 0
+Category counts: {'Food': 74, 'Fuel': 54, 'Courier': 18, 'Parking': 17, 'Local travel': 16, 'Lodging': 11}
+Amounts that cannot be parsed: 0
+Amount stats (Rs): min 20, median 354, max 4700
+Claims under Rs 2,000: 176 (93%)
+Expense dates that cannot be parsed: 0
+image_file with full phone path: 9
+image_file ending .jpeg: 2
+image_file in WhatsApp style (IMG-...-WA...): 46
+Missing values: {}
+
+--- employees.csv ---
+Employees: 16
+Grades: {'M1': 12, 'M2': 3, 'M3': 1}
+emp_id in claims but not in employees.csv: none
+
+--- Receipt mapping ---
+train: 283 claims, 280 photos found, 3 missing
+test: 190 claims, 187 photos found, 3 missing
+Unique image names used: 473 of 473 claims
+NOTE: 'missing' = not in data/images/. It can mean the folder is incomplete OR the upload failed in the app.
+
+--- Possible duplicate claims (hints only): 42 ---
+ claim_id split   emp_id                       vendor expense_date amount_claimed     category
+CLM-30804 train TPD-0452        Annapurna Dining Hall   08-06-2026       1,559.00         Food
+CLM-31418  test TPD-0452        annapurna dining hall   08-06-2026            536         Food
+CLM-30741 train TPD-0423      Ashirwad Veg Restaurant   21-06-2026       1,102.00         Food
+CLM-30982 train TPD-0423      Ashirwad Veg Restaurant   21-06-2026        Rs 1102         Food
+CLM-30728 train TPD-0459        green leaf restaurant   25-06-2026            840         Food
+CLM-30783 train TPD-0459        Green Leaf Restaurant   25-06-2026            578         Food
+CLM-30489 train TPD-0503           Highway King Dhaba   09-06-2026        Rs. 270         Food
+CLM-31366  test TPD-0503           Highway King Dhaba   09-06-2026            270         Food
+CLM-30535 train TPD-0463       Hotel Centre Point Inn   10-06-2026        Rs 3136      Lodging
+CLM-30797 train TPD-0503       HOTEL CENTRE POINT INN   02-07-2026       3,136.00      Lodging
+CLM-30643 train TPD-0484       Hotel Krishna Comforts   19-06-2026       2,016.00      Lodging
+CLM-30774 train TPD-0484       HOTEL KRISHNA COMFORTS   25-06-2026      Rs. 2,016      Lodging
+CLM-30819 train TPD-0484       HOTEL KRISHNA COMFORTS   03-07-2026       2,016.00      Lodging
+CLM-30974 train TPD-0503       hotel krishna comforts   06-07-2026       2,016.00      Lodging
+CLM-31004 train TPD-0490       Hotel Krishna Comforts   10-07-2026           2016      Lodging
+CLM-31284  test TPD-0452       Hotel Krishna Comforts   23-07-2026           2016      Lodging
+CLM-30484 train TPD-0436       Hotel Pradeep Pure Veg   12-06-2026         Rs 178         Food
+CLM-30767 train TPD-0436       Hotel Pradeep Pure Veg   12-06-2026            178         Food
+CLM-30533 train TPD-0452      Hotel Shubham Residency   12-06-2026       2,352.00      Lodging
+CLM-30736 train TPD-0452      Hotel Shubham Residency   12-06-2026      Rs. 2,400      Lodging
+CLM-31161  test TPD-0452      HOTEL SHUBHAM RESIDENCY   14-07-2026       2,352.00      Lodging
+CLM-31148  test TPD-0447      Hotel Shubham Residency   15-07-2026           2352      Lodging
+CLM-30509 train TPD-0471             Krishna Comforts   15-06-2026           2016      Lodging
+CLM-31512  test TPD-0484             Krishna Comforts   05-08-2026       2,016.00      Lodging
+CLM-30506 train TPD-0463        Maa Durga Cab Service   14-06-2026       1,230.00 Local travel
+CLM-31331  test TPD-0463        Maa Durga Cab Service   14-06-2026           1230 Local travel
+CLM-31069 train TPD-0471  New Highway Service Station   16-07-2026            500         Fuel
+CLM-31075 train TPD-0471  New Highway Service Station   16-07-2026        Rs. 487         Fuel
+CLM-30689 train TPD-0431            Om Sai Fuel Point   17-06-2026            300         Fuel
+CLM-31120  test TPD-0431            om sai fuel point   17-06-2026            300         Fuel
+CLM-30713 train TPD-0431            om sai fuel point   20-06-2026            250         Fuel
+CLM-31266  test TPD-0431            Om Sai Fuel Point   20-06-2026            300         Fuel
+CLM-30586 train TPD-0412          Punjabi Tadka Dhaba   19-06-2026            160         Food
+CLM-30665 train TPD-0412          Punjabi Tadka Dhaba   19-06-2026            335         Food
+CLM-30989 train TPD-0497          PUNJABI TADKA DHABA   08-07-2026            195         Food
+CLM-31011 train TPD-0497          Punjabi Tadka Dhaba   08-07-2026         Rs 130         Food
+CLM-30566 train TPD-0497 SITABULDI MULTILEVEL PARKING   19-06-2026         Rs. 30      Parking
+CLM-30799 train TPD-0497 Sitabuldi Multilevel Parking   19-06-2026             30      Parking
+CLM-30625 train TPD-0431           SpeedLink Couriers   23-06-2026          330.4      Courier
+CLM-31402  test TPD-0431           Speedlink Couriers   23-06-2026          330.4      Courier
+CLM-31192  test TPD-0497          SPICE ROUTE KITCHEN   22-07-2026        Rs 1200         Food
+CLM-31272  test TPD-0497          SPICE ROUTE KITCHEN   22-07-2026         Rs 331         Food
