@@ -1,0 +1,191 @@
+claim_id,emp_id,submitted_on,expense_date,category,vendor,amount_claimed,rep_comment,image_file
+CLM-31086,TPD-0412,19-07-2026,18-07-2026,Fuel,New Highway Service Station,Rs 300,Fuel,IMG-20260719-WA0062.jpg
+CLM-31087,TPD-0497,19-07-2026,16-07-2026,Food,Green Leaf Restaurant,Rs 304,"Lunch with Dr. Patil, Civil Lines",IMG_20260718_111930.jpg
+CLM-31088,TPD-0471,19-07-2026,11-07-2026,Food,Highway King Dhaba,Rs. 260,Lunch - outstation route,IMG_20260718_095324.jpg
+CLM-31090,TPD-0459,19-07-2026,14-07-2026,Food,Hotel Rajdhani Dhaba,Rs 220,Lunch - outstation route,IMG_20260719_101539.jpg
+CLM-31091,TPD-0431,19-07-2026,13-07-2026,Food,Ram Sai Tea & Snacks,405,Breakfast field day,IMG_20260718_093004.jpg
+CLM-31094,TPD-0463,19-07-2026,10-07-2026,Local travel,Durga Maa Cab Service,Rs. 250,Cab Nagpur to Hingna MIDC,IMG_20260719_085411.jpg
+CLM-31095,TPD-0447,19-07-2026,15-07-2026,Courier,Express Vidarbha Courier,Rs. 330,Courier to C&F,IMG_20260719_102342.jpg
+CLM-31096,TPD-0471,20-07-2026,12-07-2026,Fuel,New Highway Service Station,668.11,Petrol two wheeler,IMG_20260719_165340.jpg
+CLM-31097,TPD-0447,20-07-2026,12-07-2026,Fuel,Laxmi Auto Fuels,400,Fuel,IMG-20260719-WA0055.jpg
+CLM-31098,TPD-0436,20-07-2026,12-07-2026,Food,hotel pradeep pure veg - Wardha,730,Dinner meeting Dr. Rathi,IMG_20260720_085409.jpg
+CLM-31102,TPD-0423,20-07-2026,20-07-2026,Food,Shivam Family Restaurant,452,Lunch Dr. Chandak + team,IMG_20260719_115758.jpg
+CLM-31105,TPD-0452,20-07-2026,16-07-2026,Food,Annapurna Dining Hall,Rs. 567,Working lunch - stockist,IMG_20260720_143018.jpg
+CLM-31106,TPD-0459,20-07-2026,19-07-2026,Food,Green Leaf Restaurant,Rs 494,Working lunch - stockist,IMG_20260719_144606.jpg
+CLM-31107,TPD-0459,20-07-2026,12-07-2026,Courier,Prompt Parcel Services,330.4,Sent claim docs,/storage/emulated/0/DCIM/Camera/IMG_20260719_093115.jpg
+CLM-31110,TPD-0490,20-07-2026,12-07-2026,Courier,Prompt Parcel Services,Rs 141.6,Samples courier,IMG-20260720-WA0101.jpg
+CLM-31111,TPD-0412,20-07-2026,16-07-2026,Parking,SITABULDI MULTILEVEL PARKING,30,Parking - chemist visits,IMG-20260719-WA0131.jpg
+CLM-31112,TPD-0431,20-07-2026,14-07-2026,Parking,Sitabuldi Multilevel Parking,Rs. 30,Parking,IMG-20260719-WA0209.jpg
+CLM-31115,TPD-0484,21-07-2026,21-07-2026,Fuel,Jai Ambe Fuels,Rs 511.67,Petrol two wheeler,IMG_20260721_094955.jpg
+CLM-31118,TPD-0412,21-07-2026,14-07-2026,Fuel,Om Sai Fuel oPint,283.44,Petrol two wheeler,IMG-20260720-WA0096.jpg
+CLM-31120,TPD-0431,21-07-2026,17-06-2026,Fuel,om sai fuel point,300,Fuel - outstation,IMG_20260720_103859.jpg
+CLM-31122,TPD-0447,21-07-2026,15-06-2026,Fuel,Laxmi Auto Fuels,200,Petrol two wheeler,IMG_20260720_185726.jpg
+CLM-31123,TPD-0471,21-07-2026,14-07-2026,Food,Cafe Coffee Corner,Rs 250,"Lunch with Dr. Bhagat, Civil Lines",IMG_20260720_165051.jpg
+CLM-31126,TPD-0436,21-07-2026,14-07-2026,Food,Shivam Family Restaurant,210,"Lunch with Dr. Lanjewar, Manish Nagar",IMG_20260721_152904.jpg
+CLM-31130,TPD-0431,21-07-2026,12-07-2026,Food,hotel pradeep pure veg,980,"Lunch with Dr. Sontakke, Manish Nagar",IMG_20260720_210925.jpg
+CLM-31132,TPD-0478,22-07-2026,20-07-2026,Fuel,Om Sai Fuel Point,Rs. 150,Petrol - field work,IMG_20260722_160850.jpg
+CLM-31133,TPD-0452,22-07-2026,17-07-2026,Fuel,Shree Sai Petroleum,300,Fuel,IMG_20260722_190559.jpg
+CLM-31137,TPD-0418,22-07-2026,15-07-2026,Food,Spice Route Kitcehn,399,"Lunch with Dr. Waghmare, Itwari",IMG_20260721_192657.jpg
+CLM-31140,TPD-0431,22-07-2026,21-07-2026,Food,Ashirwad Veg Restaurant,294,Lunch Dr. Kale + team,IMG_20260721_100629.jpg
+CLM-31142,TPD-0412,22-07-2026,15-07-2026,Food,Hotel Rajdhani Dhaba,Rs. 350,Lunch on field,IMG_20260722_185822.jpg
+CLM-31146,TPD-0388,22-07-2026,17-07-2026,Local travel,Shree Ganesh Tours & Travels,470,Cab Ganeshpeth to AIIMS Mihan,/storage/emulated/0/DCIM/Camera/IMG_20260721_214011.jpg
+CLM-31148,TPD-0447,22-07-2026,15-07-2026,Lodging,Hotel Shubham Residency,2352,Stay Chandrapur - stockist meet,IMG_20260721_121957.jpg
+CLM-31152,TPD-0431,22-07-2026,13-07-2026,Parking,Medical Square Pay & Park,20,Parking Sitabuldi,IMG_20260722_181256.jpg
+CLM-31156,TPD-0497,23-07-2026,14-07-2026,Fuel,New Highway Serviice Station,313.73,Petrol two wheeler,IMG-20260723-WA0224.jpg
+CLM-31158,TPD-0447,23-07-2026,14-07-2026,Food,ashirwad veg restaurant,430,Lunch Dr. Patil + team,IMG_20260722_094603.jpg
+CLM-31160,TPD-0447,23-07-2026,15-07-2026,Courier,SpeedLink Couriers,339.84,Samples courier,/storage/emulated/0/DCIM/Camera/IMG_20260722_142450.jpg
+CLM-31161,TPD-0452,23-07-2026,14-07-2026,Lodging,HOTEL SHUBHAM RESIDENCY,"2,352.00",Stay Chandrapur - CME,IMG-20260723-WA0041.jpg
+CLM-31164,TPD-0418,24-07-2026,21-07-2026,Fuel,SHREE SAI PETROLEUM,Rs. 300,Petrol - field work,IMG_20260723_170945.jpg
+CLM-31168,TPD-0459,24-07-2026,23-07-2026,Fuel,GAJANAN PETROLEUM,500,Fuel - outstation,IMG_20260724_110703.jpg
+CLM-31170,TPD-0388,24-07-2026,15-07-2026,Food,Spice Route Kitchen,178,"Lunch with Dr. Khan, Sitabuldi",IMG_20260723_193736.jpg
+CLM-31171,TPD-0418,24-07-2026,18-07-2026,Food,HOTEL RAJDHANI DHABA,190,Lunch - outstation route,IMG-20260724-WA0095.jpg
+CLM-31173,TPD-0484,24-07-2026,19-07-2026,Food,SAI RAM TEA & SNACKS,330,Breakfast field day,IMG-20260724-WA0186.jpg
+CLM-31176,TPD-0471,24-07-2026,02-07-2026,Food,Sai Ram Tea & Snacks,190,Lunch on field,IMG-20260724-WA0136.jpg
+CLM-31178,TPD-0497,24-07-2026,20-07-2026,Local travel,SHREE GANESH TOURS & TRAVELS,540,Cab Ganeshpeth to AIIMS Mihan,IMG-20260724-WA0196.jpg
+CLM-31182,TPD-0452,24-07-2026,20-07-2026,Local travel,Royal TTravels,360,Cab Nagpur to Kamptee,IMG_20260723_100016.jpg
+CLM-31185,TPD-0471,24-07-2026,23-07-2026,Courier,Prommpt Parcel Services,141.6,Samples courier,IMG_20260723_110658.jpg
+CLM-31188,TPD-0463,24-07-2026,15-07-2026,Lodging,Hotel Krisna Comforts,Rs 4032,Stay Nagpur - CME,IMG-20260724-WA0098.jpg
+CLM-31190,TPD-0423,25-07-2026,24-07-2026,Fuel,om sai fuel point,400,Fuel - outstation,IMG_20260724_170809.jpg
+CLM-31191,TPD-0418,25-07-2026,20-07-2026,Fuel,Shree Sai Petroleum,310,Fuel - outstation,IMG_20260724_105718.jpg
+CLM-31192,TPD-0497,25-07-2026,22-07-2026,Food,SPICE ROUTE KITCHEN,Rs 1200,Working lunch - stockist,IMG-20260724-WA0021.jpg
+CLM-31195,TPD-0478,25-07-2026,16-07-2026,Courier,Prompt Parcel Services,Rs. 330,Courier - documents to depot,IMG_20260725_201621.jpg
+CLM-31197,TPD-0423,26-07-2026,18-07-2026,Fuel,Om Sai Fuel Point,290,Fuel,IMG_20260726_194521.jpg
+CLM-31201,TPD-0412,26-07-2026,19-07-2026,Food,Ashirwad Veg Restaurant,536,"Lunch with Dr. Mehta, Medical Sq",IMG_20260725_172056.jpg
+CLM-31203,TPD-0497,26-07-2026,22-07-2026,Food,Hotel Rajdhani Dhaba,1180,Dinner on highway,IMG-20260725-WA0149.jpg
+CLM-31204,TPD-0490,26-07-2026,28-06-2026,Courier,SpeedLink Couriers,330.4,Sent claim docs,IMG_20260726_184043.jpg
+CLM-31206,TPD-0471,27-07-2026,22-07-2026,Fuel,New Highway Service Station Nagpur,Rs 100,Petrol - field work,/storage/emulated/0/DCIM/Camera/IMG_20260726_171213.jpg
+CLM-31207,TPD-0503,27-07-2026,27-07-2026,Food,Annapurna Dining Hall,"Rs. 2,194",Dinner meeting Dr. Sontakke,IMG_20260726_183202.jpg
+CLM-31209,TPD-0503,27-07-2026,24-07-2026,Food,Highway King Dhaba,480,Lunch - outstation route,IMG_20260726_111736.jpg
+CLM-31211,TPD-0452,27-07-2026,19-07-2026,Food,Highway King Dhaba,185,Dinner on highway,IMG_20260727_212552.jpg
+CLM-31214,TPD-0503,27-07-2026,21-07-2026,Food,SAI RAM TEA & SNACKS,Rs. 100,Dinner on highway,IMG_20260726_164415.jpg
+CLM-31217,TPD-0497,27-07-2026,25-07-2026,Local travel,Ganesh Shree Tours & Travels,660,Cab Wardha to Hinganghat,IMG_20260726_203421.jpg
+CLM-31221,TPD-0484,27-07-2026,24-07-2026,Courier,Prompt Parcel Services,330.4,Sent claim docs,IMG_20260727_170244.jpg
+CLM-31222,TPD-0431,27-07-2026,23-07-2026,Parking,Sitabuldi M.L. Parking,30,Parking,IMG_20260727_164528.jpg
+CLM-31225,TPD-0436,28-07-2026,21-07-2026,Fuel,OM SAI FUEL POINT,606.62,Fuel - outstation,IMG_20260727_150914.jpg
+CLM-31228,TPD-0431,28-07-2026,28-07-2026,Fuel,Om Sai Fuel Point,300,Petrol two wheeler,IMG_20260728_142953.jpg
+CLM-31230,TPD-0423,28-07-2026,27-07-2026,Fuel,Om Sai Fuel Point,Rs. 150,Fuel for HQ visits,IMG-20260728-WA0026.jpg
+CLM-31233,TPD-0503,28-07-2026,20-07-2026,Food,Annapurna Dining Hall (Ngp),462,Dinner meeting Dr. Mehta,IMG_20260727_104322.jpg
+CLM-31236,TPD-0452,28-07-2026,27-07-2026,Food,Annapurna Dining Hall,483,Dinner meeting Dr. Lanjewar,IMG_20260727_152722.jpg
+CLM-31240,TPD-0471,28-07-2026,25-07-2026,Food,CAFE COFFEE CORNER,425,"Lunch with Dr. Kale, Medical Sq",IMG-20260727-WA0116.jpg
+CLM-31243,TPD-0431,28-07-2026,27-07-2026,Local travel,Shree Ganesh Tours & Travels,790,Cab Railway Stn to Dhantoli,IMG-20260728-WA0151.jpg
+CLM-31244,TPD-0418,28-07-2026,23-07-2026,Local travel,Shree Ganesh Tours & Travels,Rs 1100,Cab Wardha to Hinganghat,IMG_20260728_212140.jpg
+CLM-31247,TPD-0484,28-07-2026,24-07-2026,Courier,VIDARBHA EXPRESS COURIER,330.4,Sent claim docs,IMG_20260728_143233.jpg
+CLM-31249,TPD-0459,28-07-2026,19-07-2026,Courier,Vidarbha Express Courier,141.6,Courier - documents to depot,IMG_20260727_081217.jpg
+CLM-31251,TPD-0503,28-07-2026,28-07-2026,Courier,Speedlink Couriers,Rs 141.6,Courier to C&F,IMG_20260728_093401.jpg
+CLM-31255,TPD-0431,28-07-2026,24-07-2026,Parking,Sitabuldi Multilevel Parking,30,Parking - Dr. Bhagat clinic,IMG_20260727_153308.jpg
+CLM-31256,TPD-0497,28-07-2026,24-07-2026,Parking,Sitabuldi Multilevel Parking,30,Parking - Dr. Lanjewar clinic,IMG-20260727-WA0135.jpg
+CLM-31258,TPD-0490,29-07-2026,23-07-2026,Fuel,Jai Ambe Fuels,500,Fuel,IMG_20260728_080750.jpg
+CLM-31261,TPD-0423,29-07-2026,29-07-2026,Fuel,Shri Sai Petroleum,606.91,Fuel - outstation,IMG_20260728_120426.jpg
+CLM-31263,TPD-0412,29-07-2026,21-07-2026,Fuel,Om Sai Fuel Point,Rs 200,Fuel for HQ visits,IMG-20260729-WA0040.jpg
+CLM-31265,TPD-0463,29-07-2026,22-07-2026,Fuel,Gajanan Petroleum,Rs 300,Fuel,IMG-20260729-WA0023.jpg
+CLM-31266,TPD-0431,29-07-2026,20-06-2026,Fuel,Om Sai Fuel Point,300,Fuel,IMG_20260729_134659.jpg
+CLM-31270,TPD-0484,29-07-2026,26-07-2026,Fuel,Jai Ambe Fuels,200,Petrol - field work,IMG-20260729-WA0046.jpg
+CLM-31272,TPD-0497,29-07-2026,22-07-2026,Food,SPICE ROUTE KITCHEN,Rs 331,"Lunch with Dr. Chandak, Medical Sq",IMG_20260729_111757.jpg
+CLM-31274,TPD-0503,29-07-2026,27-07-2026,Food,Pradeep Pure Veg,693,"Lunch with Dr. Lanjewar, Civil Lines",IMG_20260728_195227.jpg
+CLM-31275,TPD-0436,29-07-2026,25-07-2026,Food,shivam family restaurant,452,"Lunch with Dr. Rathi, Sitabuldi",IMG_20260728_132953.jpg
+CLM-31279,TPD-0418,29-07-2026,26-07-2026,Food,shivam family restaurant,357,Lunch Dr. Mehta + team,IMG_20260728_150100.jpg
+CLM-31280,TPD-0490,29-07-2026,22-07-2026,Food,sai ramt ea & snacks,Rs 330,Dinner on highway,IMG_20260729_204623.jpg
+CLM-31284,TPD-0452,29-07-2026,23-07-2026,Lodging,Hotel Krishna Comforts,2016,Stay Nagpur - conference,IMG_20260728_083806.jpg
+CLM-31288,TPD-0447,29-07-2026,28-07-2026,Lodging,gulmohar hotel executive,"2,852.00",Stay Yavatmal - CME,/storage/emulated/0/DCIM/Camera/IMG-20260728-WA0233.jpg
+CLM-31292,TPD-0484,30-07-2026,29-07-2026,Fuel,Jai Ambe Fuels,450,Petrol - field work,IMG_20260729_135201.jpg
+CLM-31294,TPD-0423,30-07-2026,22-07-2026,Fuel,Sai Om Fuel Point (Ngp),542.82,Petrol - field work,IMG_20260729_090302.jpg
+CLM-31296,TPD-0436,30-07-2026,21-07-2026,Fuel,Shree Sai Petroleum,200,Fuel for HQ visits,IMG_20260730_213454.jpg
+CLM-31298,TPD-0388,30-07-2026,24-07-2026,Food,Spice Route Kitchen,430,Working lunch - stockist,IMG_20260729_115234.jpg
+CLM-31299,TPD-0423,30-07-2026,23-07-2026,Food,Ashirwad Veg Restaurant,"1,472.00",Lunch Dr. Agrawal + team,IMG_20260729_111359.jpg
+CLM-31301,TPD-0497,30-07-2026,24-07-2026,Food,Hotel Pradeep Pure Veg (Ngp),735,"Lunch with Dr. Khan, Sitabuldi",IMG_20260729_173852.jpg
+CLM-31305,TPD-0447,30-07-2026,30-07-2026,Local travel,Royal Travels,Rs 380,Cab Nagpur Airport to Sitabuldi,IMG_20260730_094908.jpg
+CLM-31308,TPD-0447,30-07-2026,25-07-2026,Local travel,Royal Travels - Wardha,Rs 480,Cab Wardha to Hinganghat,IMG_20260730_102413.jpg
+CLM-31310,TPD-0478,30-07-2026,23-07-2026,Local travel,Shree Ganesh Tours & Travels,Rs 1170,Cab Wardha to Sewagram,IMG_20260730_112551.jpg
+CLM-31311,TPD-0459,30-07-2026,23-07-2026,Lodging,Hotel Gulmohar Executive,"2,352.00",Stay Yavatmal - conference,IMG_20260729_095804.jpg
+CLM-31314,TPD-0431,30-07-2026,29-07-2026,Parking,Sitabuldi Multilevel Parking,Rs 30,Parking - Dr. Sontakke clinic,IMG-20260730-WA0197.jpg
+CLM-31315,TPD-0503,31-07-2026,31-07-2026,Fuel,Laxmi Auto Fuels,Rs 20,Fuel for HQ visits,IMG_20260731_135010.jpg
+CLM-31317,TPD-0431,31-07-2026,24-07-2026,Food,Ashirwad Veg Restaurant,"Rs. 2,268",Dinner meeting Dr. Agrawal,IMG_20260730_145223.jpg
+CLM-31321,TPD-0431,31-07-2026,27-07-2026,Food,Hotel Pradeep Pure Veg,Rs 808,Working lunch - stockist,IMG_20260730_180236.jpg
+CLM-31324,TPD-0484,31-07-2026,29-07-2026,Food,Hotel Saibaba Bhojnalaya,998,"Lunch with Dr. Joshi, Civil Lines",IMG_20260730_094242.jpg
+CLM-31328,TPD-0503,31-07-2026,23-07-2026,Food,Highway King Dhaba,235,Breakfast field day,IMG-20260730-WA0156.jpg
+CLM-31329,TPD-0423,31-07-2026,25-07-2026,Local travel,Shree Ganesh Tours & Travels,740,Cab Railway Stn to Dhantoli,IMG_20260731_103806.jpg
+CLM-31331,TPD-0463,31-07-2026,14-06-2026,Local travel,Maa Durga Cab Service,1230,Cab Railway Stn to Dhantoli,IMG_20260731_163044.jpg
+CLM-31333,TPD-0412,01-08-2026,01-08-2026,Fuel,Om Sai Fuel Point,100,Fuel,IMG_20260801_102204.jpg
+CLM-31335,TPD-0418,01-08-2026,01-08-2026,Fuel,Sai Om Fuel Point,"Rs. 1,314",Fuel - outstation,IMG_20260801_101249.jpg
+CLM-31336,TPD-0388,01-08-2026,26-07-2026,Fuel,Shirdi Sai Om Fuel Point,2607.43,Fuel - outstation,IMG_20260731_101131.jpg
+CLM-31339,TPD-0452,01-08-2026,29-07-2026,Fuel,Laxmi Auto Fuels,200,Petrol - field work,IMG_20260801_082524.jpg
+CLM-31340,TPD-0463,01-08-2026,24-07-2026,Food,Gree Leaf Restaurant,420,Lunch Dr. Patil + team,IMG-20260731-WA0020.jpg
+CLM-31341,TPD-0436,01-08-2026,26-07-2026,Food,Ashirwad Veg Restaurant,840,"Lunch with Dr. Agrawal, Medical Sq",IMG_20260801_111355.jpg
+CLM-31344,TPD-0503,01-08-2026,28-07-2026,Food,Highway King Dhaba,315,Dinner on highway,IMG_20260801_132016.jpeg
+CLM-31347,TPD-0431,01-08-2026,01-08-2026,Food,hotel rajdhani dhaba,270,Dinner on highway,IMG_20260801_101754.jpg
+CLM-31351,TPD-0388,01-08-2026,29-07-2026,Local travel,Shree Ganesh Tours & Travels,Rs 930,Cab Nagpur Airport to Sitabuldi,IMG_20260801_144116.jpeg
+CLM-31352,TPD-0452,01-08-2026,23-07-2026,Courier,PROMPT PARCEL SERVICES,141.6,Sent claim docs,IMG_20260801_141124.jpg
+CLM-31356,TPD-0497,01-08-2026,30-07-2026,Parking,SITABULDI MULTILEVEL PARKING,30,Parking - chemist visits,IMG_20260801_181215.jpg
+CLM-31359,TPD-0412,01-08-2026,01-08-2026,Parking,Medical Square Pay & Park,20,Parking Sitabuldi,IMG_20260731_113235.jpg
+CLM-31361,TPD-0412,02-08-2026,24-07-2026,Fuel,Sri Shirdi Sai Petroleum (Ngp),Rs. 250,Fuel,IMG_20260801_181420.jpg
+CLM-31362,TPD-0452,02-08-2026,27-07-2026,Fuel,Laxmi Auto Fuels,200,Petrol - field work,IMG-20260801-WA0126.jpg
+CLM-31363,TPD-0484,02-08-2026,27-07-2026,Food,Hotel Shirdi Saibaba Bhojnalaya Nagpur,Rs 525,Dinner meeting Dr. Joshi,IMG_20260802_153908.jpg
+CLM-31366,TPD-0503,02-08-2026,09-06-2026,Food,Highway King Dhaba,270,Lunch - outstation route,IMG_20260801_085309.jpg
+CLM-31367,TPD-0431,02-08-2026,30-07-2026,Courier,Vidarbha Express Cour.,Rs. 142,Samples courier,IMG_20260801_212306.jpg
+CLM-31368,TPD-0484,02-08-2026,01-08-2026,Lodging,Sai Palace Lodge,3136,Stay Wardha - CME,IMG_20260802_103821.jpg
+CLM-31369,TPD-0497,03-08-2026,03-08-2026,Fuel,OM SAI FUEL POINT,200,Petrol two wheeler,IMG_20260803_130541.jpg
+CLM-31373,TPD-0436,03-08-2026,29-07-2026,Fuel,Om Sai Fuel Point,150,Fuel for HQ visits,IMG-20260803-WA0231.jpg
+CLM-31374,TPD-0423,03-08-2026,03-08-2026,Food,Hotel Saibaba Bhojnalaya,"Rs. 1,092",Dinner meeting Dr. Lanjewar,IMG_20260802_094906.jpg
+CLM-31378,TPD-0490,03-08-2026,25-07-2026,Food,SAI RAM TEA & SNACKS,Rs 60,Lunch on field,IMG_20260803_152913.jpg
+CLM-31382,TPD-0452,03-08-2026,29-07-2026,Courier,speedlin couriers,141.6,Sent claim docs,IMG-20260802-WA0239.jpg
+CLM-31386,TPD-0418,04-08-2026,03-08-2026,Fuel,Jai Ambe Fuels,750,Fuel,IMG_20260804_202611.jpg
+CLM-31387,TPD-0463,04-08-2026,28-07-2026,Fuel,Petroleum aGjanan,Rs 150,Petrol two wheeler,IMG_20260803_140623.jpg
+CLM-31388,TPD-0471,04-08-2026,27-07-2026,Fuel,new highway serviice station,500,Fuel for HQ visits,IMG_20260804_185948.jpg
+CLM-31391,TPD-0490,04-08-2026,26-07-2026,Food,HOTEL SAIBABA BHOJNALAYA,420,Dinner meeting Dr. Lanjewar,IMG_20260803_210445.jpg
+CLM-31392,TPD-0431,04-08-2026,31-07-2026,Food,Spice oRute Kitchen,1120,Working lunch - stockist,IMG_20260803_100639.jpg
+CLM-31393,TPD-0478,04-08-2026,31-07-2026,Food,Coffee Cafe Corner,Rs 546,Working lunch - stockist,IMG-20260803-WA0219.jpg
+CLM-31397,TPD-0452,04-08-2026,26-07-2026,Food,PUNJABI TADKA DHABA,Rs 270,Lunch - outstation route,IMG_20260804_105631.jpg
+CLM-31401,TPD-0412,04-08-2026,26-07-2026,Local travel,SHREE GANESH TOURS & TRAVELS,"Rs. 1,390",Cab Chandrapur to Ballarpur,IMG_20260803_134237.jpg
+CLM-31402,TPD-0431,04-08-2026,23-06-2026,Courier,Speedlink Couriers,330.4,Courier - documents to depot,IMG_20260803_140317.jpg
+CLM-31405,TPD-0471,04-08-2026,03-08-2026,Lodging,Hotel Shubham Residency,"4,700.00",Stay Chandrapur - stockist meet,IMG_20260803_104635.jpg
+CLM-31407,TPD-0412,04-08-2026,31-07-2026,Parking,Sitabuldi Multilevel Parking,30,Parking,IMG-20260804-WA0230.jpg
+CLM-31411,TPD-0431,04-08-2026,02-08-2026,Parking,Medical Square Pay & Park,20,Parking - Dr. Sontakke clinic,IMG-20260804-WA0198.jpg
+CLM-31412,TPD-0478,05-08-2026,27-07-2026,Fuel,New Highway Service Station,Rs. 300,Fuel - outstation,IMG_20260805_114242.jpg
+CLM-31414,TPD-0459,05-08-2026,28-07-2026,Fuel,Gajanan Petroluem,300,Fuel - outstation,IMG_20260805_190833.jpg
+CLM-31415,TPD-0503,05-08-2026,30-07-2026,Fuel,Laxmi Auto Fuels,500,Petrol - field work,IMG_20260805_145347.jpg
+CLM-31417,TPD-0423,05-08-2026,04-08-2026,Food,Ashirwad Veg Restaurant,567,Lunch Dr. Joshi + team,IMG_20260804_142129.jpg
+CLM-31418,TPD-0452,05-08-2026,08-06-2026,Food,annapurna dining hall,536,Lunch Dr. Bhagat + team,IMG_20260804_203505.jpg
+CLM-31421,TPD-0388,05-08-2026,28-07-2026,Food,Sai Ram Tea & Snacks,385,Lunch - outstation route,IMG-20260805-WA0194.jpg
+CLM-31422,TPD-0484,05-08-2026,30-07-2026,Lodging,HOTEL KRISHNA COMFORTS,4032,Stay Nagpur - CME,IMG-20260804-WA0074.jpg
+CLM-31423,TPD-0412,05-08-2026,28-07-2026,Parking,Sitabuldi Multilevel Parking,30,Parking - chemist visits,IMG_20260805_123344.jpg
+CLM-31424,TPD-0412,05-08-2026,05-08-2026,Parking,Multilevel Sitabuldi Parking Nagpur,30,Parking - chemist visits,IMG_20260805_132431.jpg
+CLM-31428,TPD-0431,05-08-2026,03-08-2026,Parking,Sitabuldi Multilevel Parking,30,Parking - chemist visits,IMG_20260804_130959.jpg
+CLM-31429,TPD-0418,06-08-2026,04-08-2026,Fuel,Shree Sai Petroleum,Rs 100,Fuel,IMG_20260806_141430.jpg
+CLM-31430,TPD-0436,06-08-2026,29-07-2026,Food,HOTEL PRADEEP PURE VEG,220,"Lunch with Dr. Joshi, Itwari",IMG_20260806_185611.jpg
+CLM-31432,TPD-0471,06-08-2026,04-08-2026,Food,CAFE COFFEE CORNER,588,Lunch Dr. Bhagat + team,IMG_20260805_112657.jpg
+CLM-31433,TPD-0503,06-08-2026,28-07-2026,Food,Annapurna Dining Hall,273,Working lunch - stockist,IMG_20260805_130450.jpg
+CLM-31436,TPD-0412,06-08-2026,31-07-2026,Food,shivam family restaurant,Rs. 756,Dinner meeting Dr. Patil,IMG_20260805_091350.jpg
+CLM-31438,TPD-0490,06-08-2026,28-07-2026,Food,Dining Annapurna Hall,651,Lunch Dr. Lanjewar + team,IMG_20260806_161541.jpg
+CLM-31439,TPD-0459,06-08-2026,05-08-2026,Food,Sai Ram Tea & Snacks,240,Lunch on field,/storage/emulated/0/DCIM/Camera/IMG_20260805_160119.jpg
+CLM-31440,TPD-0447,06-08-2026,02-08-2026,Food,Highway King Dhaba - Wardha,245,Breakfast field day,IMG_20260805_194936.jpg
+CLM-31444,TPD-0418,07-08-2026,30-07-2026,Fuel,Sai Shree Petroleum,520,Petrol two wheeler,IMG-20260806-WA0096.jpg
+CLM-31447,TPD-0423,07-08-2026,30-07-2026,Fuel,Om Sai Fuel Point,Rs 300,Fuel - outstation,IMG-20260806-WA0195.jpg
+CLM-31451,TPD-0490,07-08-2026,04-08-2026,Fuel,Ambe Jai Fuels Nagpur,200,Petrol two wheeler,IMG_20260807_114803.jpg
+CLM-31453,TPD-0463,07-08-2026,02-08-2026,Fuel,Gajanan Petroleum,250,Fuel,IMG-20260807-WA0125.jpg
+CLM-31454,TPD-0478,07-08-2026,05-08-2026,Fuel,New Highway Service Station,400,Fuel for HQ visits,IMG_20260806_113135.jpg
+CLM-31457,TPD-0418,07-08-2026,05-08-2026,Fuel,Sai Om Fuel Piont,400,Fuel,IMG_20260806_142652.jpg
+CLM-31460,TPD-0503,07-08-2026,05-08-2026,Fuel,Laxmi Auto Fuels,500,Fuel,IMG-20260807-WA0145.jpg
+CLM-31461,TPD-0412,07-08-2026,31-07-2026,Fuel,NEW HIGHWAY SERVICE STATION,300,Petrol two wheeler,IMG_20260807_121259.jpg
+CLM-31465,TPD-0463,07-08-2026,04-08-2026,Fuel,Gajanan Petroleum,400,Petrol two wheeler,/storage/emulated/0/DCIM/Camera/IMG_20260807_203333.jpg
+CLM-31469,TPD-0436,07-08-2026,04-08-2026,Fuel,Shree Sia Petroleum,100,Petrol two wheeler,IMG_20260806_085112.jpg
+CLM-31473,TPD-0431,07-08-2026,03-08-2026,Food,Route Spice Kitchen,756,Lunch Dr. Patil + team,IMG_20260807_204032.jpg
+CLM-31474,TPD-0478,07-08-2026,05-08-2026,Food,Coffee Cafe Corner,746,"Lunch with Dr. Rathi, Sadar",IMG_20260806_144234.jpg
+CLM-31475,TPD-0471,07-08-2026,02-07-2026,Food,Cafe Coffee Corner,Rs 987,Dinner meeting Dr. Patil,IMG_20260807_130914.jpg
+CLM-31478,TPD-0478,07-08-2026,05-08-2026,Food,cafe  coffee corner,Rs 1082,"Lunch with Dr. Rathi, Medical Sq",IMG_20260807_122201.jpg
+CLM-31479,TPD-0471,07-08-2026,03-08-2026,Food,Cafe Coffeee Corner,567,Working lunch - stockist,IMG-20260807-WA0164.jpg
+CLM-31480,TPD-0497,07-08-2026,24-07-2026,Food,Hotel Pradeep Pure Veg,735,"Lunch with Dr. Rathi, Sadar",IMG_20260807_131159.jpg
+CLM-31483,TPD-0447,07-08-2026,03-08-2026,Food,Annapurna Dining Hall,798,Dinner meeting Dr. Lanjewar,IMG-20260807-WA0174.jpg
+CLM-31485,TPD-0459,07-08-2026,04-08-2026,Food,Punjabi Tadka Dhaba,410,Lunch - outstation route,IMG_20260807_155716.jpg
+CLM-31486,TPD-0436,07-08-2026,03-08-2026,Food,Punjabi Tadka Dhaba,500,Dinner on highway,/storage/emulated/0/DCIM/Camera/IMG_20260807_191801.jpg
+CLM-31490,TPD-0490,07-08-2026,30-07-2026,Food,Rajdhani Hotel Dhaba Nagpur,370,Breakfast field day,IMG-20260807-WA0216.jpg
+CLM-31494,TPD-0503,07-08-2026,05-08-2026,Food,highhway king dhaba,165,Lunch on field,IMG_20260806_195113.jpg
+CLM-31495,TPD-0459,07-08-2026,03-08-2026,Local travel,Maa Durga Cab Service,910,Cab Nagpur to Butibori,IMG_20260806_194813.jpg
+CLM-31497,TPD-0471,07-08-2026,07-08-2026,Local travel,Shree Ganesh Tours & Travels,1170,Cab Wardha to Sewagram,IMG_20260806_195848.jpg
+CLM-31501,TPD-0459,07-08-2026,01-08-2026,Courier,Vidarbha Express Courier,Rs 140,Courier - documents to depot,IMG-20260807-WA0013.jpg
+CLM-31503,TPD-0418,07-08-2026,04-08-2026,Courier,Vidarbha Express Courier (Ngp),1226.56,Sent claim docs,IMG_20260806_215611.jpg
+CLM-31506,TPD-0431,07-08-2026,02-08-2026,Courier,SpeedLink Couriers,Rs. 142,Courier to C&F,IMG-20260806-WA0153.jpg
+CLM-31509,TPD-0471,07-08-2026,01-08-2026,Lodging,Shirdi Sai Palace Lodge,3136,Stay Wardha - CME,/storage/emulated/0/DCIM/Camera/IMG_20260807_213207.jpg
+CLM-31512,TPD-0484,07-08-2026,05-08-2026,Lodging,Krishna Comforts,"2,016.00",Stay Nagpur - CME,IMG-20260807-WA0091.jpg
+CLM-31516,TPD-0412,07-08-2026,01-08-2026,Parking,SITABULDI MULTILEVEL PARKING,30,Parking,IMG_20260807_174736.jpg
+CLM-31519,TPD-0431,07-08-2026,05-08-2026,Parking,Sitabuldi Muultilevel Parking,30,Parking Sitabuldi,IMG-20260806-WA0027.jpg
+CLM-31523,TPD-0497,07-08-2026,05-08-2026,Parking,Sitabuldi Multilevel Parking,Rs. 30,Parking,IMG-20260806-WA0130.jpg
